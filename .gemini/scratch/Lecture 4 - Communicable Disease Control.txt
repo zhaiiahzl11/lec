@@ -1,0 +1,145 @@
+ 
+04  LECTURE  
+HEALTH  CARE  
+MT  1,  Second  Semester  LECTURE  04  -  Ms.  Bianca  Marie  E.  Racal,  RMT 
+ 
+COMMUNICABLE  DISEASE  CONTROL  
+ 
+TOPIC  OVERVIEW  
+ 
+I.  COMMUNICABLE  VS.  NON-COMMUNICABLE  DISEASE ........ 1
+ II.  ACUTE  VS.  CHRONIC  DISEASES ............................................. 1
+ III.  COMMUNICABLE  DISEASE ..................................................... 1
+ A.  DEFINITION  OF  TERMS ......................................................................... 1
+ B.  COMMUNICABLE  DISEASE  MODEL ............................................... 2
+ IV.  CHAIN  OF  INFECTION ............................................................ 2
+ V.  PREVENTION,  INTERVENTION,  CONTROL,  AND  ERADICATION  OF  DISEASES ...................................................... 4
+ A.  LEVELS  OF  PREVENTION ..................................................................... 4 VI.  THE  NATURAL  HISTORY  OF  ANY  DISEASE  OF  HUMANS ..... 5 VII.  APPLICATION  OF  THE  LEVELS  OF  PREVENTION  TO  COMMUNICABLE  DISEASES VIII.  GREAT  PUBLIC  HEALTH  ACHIEVEMENTS:  2001-2010  IN  THE  CONTROL  OF  INFECTIOUS  DISEASE ................................... 6 IX.  REFERENCES .......................................................................... 6 
+ 
+ 
+LEARNING  OBJECTIVES  
+●  Define  and  differentiate  communicable  versus  non-communicable  diseases  ●  Define  and  differentiate  acute  versus  chronic  disease  ●  To  understand  the  communicable  disease  model,  chan  of  infection,  and  modes  of  transmission,  along  with  definition  of  some  significant  terms  ●  Prevention,  intervention,  control,  and  eradication  of  disease  
+ 
+I.  COMMUNICABLE  VS.  NON-COMMUNICABLE  DISEASE  
+ Communicable  Diseases  or  Infectious  Diseases   ●  Diseases  that  are  caused  by  biological  agents  that  are  transmitted  from  transmissible  from  one  person  to  another  ●  And  infection  begins  when  an  agent  enters,  grows,  and  reproduces  within  the  host’s  body  ●  Can  be  transmitted  through  direct  contact,  indirect  contact,  airborne  transmission,  or  vectors   Noncommunicable  Diseases  or  Non-Infectious  Diseases   ●  Diseases  that  cannot  be  transmitted  ●  Often  called  mutli-causational  diseases ,  which  can  caused  by:  ○  Genetic  ○  Environmental  ○  Lifestyle   
+II.  ACUTE  VS.  CHRONIC  DISEASES  
+ Acute  Diseases  |  Short-term   ●  Peak  severity  of  symptoms  occurs  ●  Subsides  within  three  months  or  less  ●  Recovery  is  usually  complete  ●  Example:  Chickenpox  
+○  You  can  only  be  infected  once  since  you  develop  immunity  after  infection   Chronic  Diseases  |  Long-term   ●  Symptoms  continue  for  longer  than  three  months,  often  lasting  for  years  or  a  lifetime  ●  Recovery  is  slow  and  sometimes  incomplete  ●  Can  be  managed  and  not  always  cured  ●  Example:  Diabetes   
+CLASSIFICATION  OF  DISEASES
+ 
+Type  of  Disease  Examples  
+Acute  Diseases  
+Communicable  
+Common  cold,  pneumonia,  mumps,  measles,  pertussis,  typhoid  fever,  cholera  
+Noncommunicable  
+Appendicitis,  poisoning,  injury  (due  to  motor  vehicle  crash,  fire,  gunshot,  etc.)  
+Chronic  Diseases  
+Communicable  
+AIDS,  Lyme  Disease,  tuberculosis,  syphilis,  rheumatic  fever  following  streptococcal  infections,  hepatitis  B  
+Noncommunicable  
+Diabetes,  coronary  heart  disease,  osteo  arthritic,  liver  cirrhosis  due  to  alcoholism  
+Table  1.  Classification  of  Disease  
+ 
+ 
+LEC  04,  PAGE  1  BSMT  1C  -  PALATAN,  J.  |   BATCH  ZEPHYRIUS  
+ 
+
+ 
+III.  COMMUNICABLE  DISEASE  
+ 
+A.  DEFINITION  OF  TERMS  
+ Infectivity    ●  Ability  of  a  biological  agent  to  enter,  grow,  and  multiply  in  a  host  and  spread  to  other  hosts  ●  How  and  how  fast  does  it  spread?   Pathogenicity   ●  Infectious  agent’s  ability  to  produce  a  disease  ●  How  harmful  is  the  infectious  agent?  ●  Example:  Omicron  variant  of  COVID-19  has  a  high  infectivity  but  low  pathogenicity   
+B.  COMMUNICABLE  DISEASE  MODEL  
+ Figure  1.  Communicable  Disease  Model   
+Elements  of  the  Communicable  Disease  Model   ●  Agent  ○  Cause  of  a  disease  ○  Element  present  for  disease  to  occur  ○  Example:  Influenza  Virus   
+●  Host  ○  Any  susceptible  organism  invaded  by  the  infectious  agent  ○  Example:  Humans,  Animals,  or  Plants  ●  Environment  ○  Includes  all  other  factors  that  help  regulate  disease  transmission  ○  Can  be:  ■  Physical  Factors  ■  Biological  Factors  ■  Social  Factors   Biological  Agents  of  Disease   
+ Figure  2.  Biological  Agents  of  Disease  
+ 
+IV.  CHAIN  OF  INFECTION  
+ Figure  3.  Chain  of  Infection  
+ ●  Process  by  which  an  infectious  disease  spreads  from  one  host  to  another  through  a  series  of  steps  
+●  Removing  any  of  the  links  in  the  chain  breaks  disease  prevention  ○  Best  way  to  break  the  chain:  Hand  Hygiene  ●  There  are  six  elements  in  the  chain  of  infection,  which  have  their  own  roles  and   are  in  order  ●  The  variations  of  the  chain  of  infection  depend  on  the:  ○  Disease  agent  ○  Environmental  Condition  ○  Infectivity  ○  Host  susceptibility  What  Happens  in  a  Chain  of  Infection?   ●  The  pathogenic  disease-producing  agent  leave  its  reservoir  or  infected  host,  via  the  portal  of  exit   ●  Transmission  occurs  by  direct  or  indirect  manner  ●  The  pathogenic  agent  enters  the  susceptible  host  through  a  portal  of  entry  to  establish  infection   
+A.  ELEMENTS  OF  THE  CHAIN  OF  INFECTION  
+ Infectious  Agent   ●  The  microorganism  that  causes  disease  ○  Bacteria,  virus,  fungus,  or  parasite  ●  Example:  Influenza  virus  causes  the  flu   Reservoir   ●  The  natural  habitat  where  the  infectious  agent   lives,  grows,  and  multiplies  ●  Can  be  humans,  animals,  soil,  or  contaminated  surfaces  ●  Example:  Mosquitoes  serve  as  reservoir  for  malaria     
+ 
+LEC  04,  PAGE  2  BSMT  1C  -  PALATAN,  J.  |  BATCH  ZEPHYRIUS 
+ 
+
+ 
+Portal  of  Exit   ●  The  route  through  which  the  infectious  agent  leaves  the  reservoir  ●  Can  be  through:  ○  Respiratory  secretions  ■  Coughing  and  Sneezing  ○  Blood  ○  Feces  ○  Open  Wounds  ●  Example:  Tuberculosis  exits  through  respiratory  droplets   when  an  infected  person  coughs   Mode  of  Transmission   ●  The  way  the  infectious  agent  spreads  from  one  host  to  another  ●  Can  be:  ○  Direct  ■  Person-to-Person  Contact  ○  Indirect  ■  Contaminated  Surfaces,  Airborne,  Vector-borne  ■  There  are  a  lot  of  mode  of  indirect  transmissions  ●  Example:  COVID-19  spreads  through  respiratory  droplets  and  contaminated  surfaces   Portal  of  Entry   ●  The  route  through  which  the  infectious  agent  enters  a  new  host  ●  Common  portals  include:  ○  Respiratory  Tract  ○  Gastrointestinal  Tract  ○  Mucous  Membranes   ○  Broken  Skin  ●  Example:  HIV  enters  through  blood  contact  or  sexual  transmission      
+Susceptible  Host   ●  An  individual  who  lacks  immunity  or  resistance  to  the  infectious  agent  ●  Factors  affecting  susceptibility  include:  ○  Age  ○  Underlying  Health  Conditions  ○  Weakened  Immune  Systems   ●  Example:  Elderly  individuals  with  weak  immune  systems   are  more  susceptible  to  pneumonia   
+B.  DEFINITION  OF  TERMS  
+ Case   ●  Person  who  is  sick  with  a  disease   Carrier    ●  A  person  or  animals  that  harbors  a  specific  communicable  agent  in  the  absence  of  discernible  clinical  disease  ●  More  dangerous  than  a  case  because  they  may  show  no  symptoms   or  are  asymptomatic  ●  Serves  as  a  potential  source  of  infection  to  others   Zoonosis   ●  Communicable  disease  transmissible  under  natural  conditions  from  vertebrae  animals  to  humans  ●  Example:  Rabies   Anthroponosis   ●  Diseases  that  only  infect  humans      
+ 
+C.  PORTALS  OF  EXIT  FOR  SOME  DISEASES  
+ 
+Portal  of  Exit   Disease  
+Respiratory  Tract  
+-  Common  Colds  -  Influenza  
+-  Measles  -  Tuberculosis  
+Urogenital  Tract  STIs  
+-  Gonorrhea  -  Syphilis  
+-  Herpes  -  AIDS  
+Digestive  Tract  
+-  Amebic  Dysentery  -  Shigellosis  
+-  Polio  -  Typhoid  Fever  -  Cholera  
+Skin  
+-  Ringworm  -  Jock  Itch  
+Transplacental  
+-  Rubella  Virus  -  Syphilis  
+-  Spirochetes  -  Hepatitis  B  Virus  
+Table  2.  Portals  of  Exit  for  Some  Diseases  
+ 
+D.  MODES  OF  TRANSMISSION  
+ Direct  Transmission   ●  Direct  transfer  of  the  disease  agent  between  the  infected  and  susceptible  individual  ●  Examples:  ○  Touching  ○  Biting  ○  Kissing  ○  Sexual  Intercourse  ○  Direct  Projection  (Droplet  Spread)  ●  Diseases:  ○  Sexually  Transmitted  Infections  (STIs)  ○  Rabies       
+ 
+LEC  04,  PAGE  3  BSMT  1C  -  PALATAN,  J.  |  BATCH  ZEPHYRIUS 
+ 
+ 
+Indirect  Transmission   ●  Airborne  ○  Dissemination  of  microbial  aerosols  to  suitable  portal  of  entry  ○  Diseases :   ■  Tuberculosis  ■  Influenza  ■  Measles   TYPES  OF  INDIRECT  TRANSMISSION   Vehicle-Borne  Transmission   ●  Contaminated  materials  or  objects  (fomites)  serving  as  vehicles  where  communicable  agents  are  transferred  to  a  susceptible  host.  ●  Examples :  toys,  handkerchiefs,  utensils,  water,  food,  milk,  blood,  serum,  plasma,  organs,  tissue   Vector-Borne  Transmission   ●  Transfer  of  a  disease  by  a  living  organism  such  as  mosquitoes,  flies,  and  ticks.  ●  Transmission  may  be  mechanical  or  biological  ●  Mechanical  Transmission  ○  Contaminated  mouth  parts  or  feet  of  vector  ●  Biological  Transmission  ○  Multiplication  or  developmental  changes  of  agent  in  the  vector  before  transmission  ○  Example:  Mosquitoes  ■  Transmit  viruses,  causing  ●  Yellow  Fever  ●  Dengue  Fever  (most  common  in  the  Philippines)  ●  West  Nile  Virus  ●  Zika  Virus  
+○  Example:  Ticks  ■  Can  cause   ●  Rocky  Mountain  Spotted  Fever  ●  Relapsing  Fever  ●  Lyme  Disease   (most  common  disease  spread  by  ticks)   
+V.  PREVENTION,  INTERVENTION,  CONTROL,  AND  ERADICATION  OF  DISEASES  
+ Prevention   ●  Implies  planning  for  and  taking  action  to  prevent  or  forestall  the  occurrence  of  an  undesirable  event  ●  Prevention  is  better  than  cure  ●  Example:  Immunization   Intervention   ●  Taking  of  action  during  an  event  ●  Example:  Taking  an  antibiotic  to  cure  an  infection   Control   ●  Containment   of  a  disease  ●  May  include  prevention  and  intervention  measures  ●  Limiting  of  transmission  of  a  communicable  disease    Eradication   ●  Uprooting  or  total  elimination  of  a  disease  from  the  human  population  ●  An  elusive  goal,  one  that  is  rarely  achieved  in  public  health  ○  Smallpox  is  the  only  communicable  disease  that  has  been  eradicated  
+ 
+Figure
+ 
+4.
+ 
+Smallpox
+ 
+Eradication
+  
+A.  LEVELS  OF  PREVENTION  
+ Primary  Prevention   ●  Break  the  chain  of  infection  or  interrupt  the  disease  transmission  cycle   ●  Forestall  the  onset  of  illness/injury  during  the  Prepathogenesis  Period  (before  the  disease  happens)  ●  Prevention  is  better  than  cure  ●  Examples:  ○  Health  Education  and  Health  Promotion  Programs  ○  Immunization  ○  Chlorination  of  Water  Supply   Secondary  Prevention   ●  Preventive  measures  the  lead  to  an  early  diagnosis  ●  Health  Screenings   ○  Detect  disease  in  early  pathogenesis  stage,  permitting  intervention  (through  treatment)  and  limiting  disability  ●  Purpose  is  not  to  diagnose  disease   Tertiary  Prevention   ●  Re-train,  re-educate,  and  rehabilitate  the  patient  who  already  incurred  a  disability  ●  Focuses  on  more  in  rehabilitation  ○  So  that  disease  will  not  happen  again  
+ 
+LEC  04,  PAGE  4  BSMT  1C  -  PALATAN,  J.  |  BATCH  ZEPHYRIUS 
+ 
+
+ 
+●  Therapy  for  patient  who  suffered  from  myocardial  infarction  or  cerebrovascular  spasm   
+VI.  THE  NATURAL  HISTORY  OF  ANY  DISEASE  OF  HUMANS  
+ 
+Figure  5.  Natural  History  of  Any  Disease  of  Humans   
+Figure  5  Breakdown   ●  Prepathogenesis  Period  -  Primary  Prevention  ○  Health  Promotion  ■  Health  Education  ■  Sex  Education   ■  Marriage  Counselling  ○  Specific  Protectio n  ■  Immunization  ■  Personal  Hygiene  ■  Environmental  Sanitation   ●  Early  Pathogenesis   -  Secondary  Prevention  ○  Early  Diagnosis  and  Prompt  Treatment  ■  Screening  Surveys  ■  Selective  Examinations  ●  Period  of  Pathogenesis  -  Secondary  Prevention  ○  Disability  Limitation  ■  Adequate  Treatment  ■  Provision  of  Health  Facilities  for  Treatment  ●  Convalescence  -  Tertiary  Prevention  ○  Rehabilitation   ■  Selective  Placement  ■  Work  Therapy   
+VII.  APPLICATION  OF  THE  LEVELS  OF  PREVENTION  TO  COMMUNICABLE  DISEASES  
+ 
+A.  PRIMARY  PREVENTION  
+Ultimate  Goal   ●  Break  the  chain  of  infection  or  interrupt  the  disease  transmission  cycle  Measures  that  Can  Be  Done  By:   ●  Government  ○  Water  Supply  Chlorination  ○  Immunization  Programs   ○  Proper  Solid  Waste  Disposal  
+●  Citizens  ○  Handwashing  ○  Proper  Cooking  of  Food  ○  Adequate  Clothing  and  Housing  ○  Use  of  Condoms  ○  Getting  Immunized   2  Types  of  Immunity   ●  Active  Immunity  ○  When  exposure  to  disease-causing  organisms  prompts  the  immune  system  to  develop  antibodies  against  the  disease   ■  Only  happens  when  there  is  disease  already   ○  Example:  Vaccination  ■  Vaccines  contain  weakened,  inactivated,  or  harmless  parts  of  a  pathogen  that  train  the  immune  system  to  recognize  it,  so  the  body  can  respond  quickly  and  effectively  if  exposed  to  the  real  infection.  ●  Passive  Immunity   ○  When  a  person  receives  antibodies  from  their  mother   
+B.  SECONDARY  PREVENTION  
+ Involves:   ●  Self-diagnosis  and  self-treatment  with  non-prescription  medications  or  home  remedies  ●  Diagnosis  and  treatment  with  an  antibiotic  prescribed  by  a  physician     
+ 
+LEC  04,  PAGE  5  BSMT  1C  -  PALATAN,  J.  |  BATCH  ZEPHYRIUS 
+ 
+
+ 
+Usually  Aimed  at:   ●  Controlling  or  limiting  the  extent  of  an  epidemic  ○  Doing  something  to  limit  disability  ●  Maintaining  records  and  complying  with  regulations  requiring  reporting  of  notifiable  diseases  and  investigating  cases  and  contacts   Control  Measures   ●  Isolation  ○  The  separation  for  the  period  of  communicability  of  infected  persons  from  those  who  are  susceptible  ○  To  prevent  direct  or  indirect  transmission  of  communicable  agents  ●  Quarantine  ○  Limitation  of  freedom  of  movement  of  those  who  have  been  exposed  to  disease  and  may  be  incubating  it  ●  Disinfection  ○  The  killing  of  communicable  disease  agents  outside  the  host   
+C.  TERTIARY  PREVENTION  
+ Preventive  Measures   ●  Convalescence  from  Infection  ●  Recovery  to  Full  Health  ●  Return  to  Normal  Activity   Aimed  at:   ●  Preventing  the  recurrence  of  an  epidemic   ●  Example:  Proper  removal,  embalming,  and  burial  of  the  dead  infected  with  a  communicable  disease   
+VIII.  GREAT  PUBLIC  HEALTH  ACHIEVEMENTS:  2001-2010  IN  THE  CONTROL  OF  INFECTIOUS  DISEASE  
+ Vaccine   ●  Has  a  significant  impact  on  the  burden  of  disease  ●  Reduces  significant  hospitalizations  and  death   Improvements  in  Public  Health  Infrastructure,  Innovative  and  Targeted  Prevention  Efforts,  and  Advances  in  Laboratory  Techniques  and  Technology   ●  Enhanced  Disease  Surveillance  ●  Expanding  the  age  range  for  HIV  Screening  recommendations   ●  2004:  The  CDC  has  officially  declared  the  USA  free  from  canine  rabies    Public  Health  Preparedness  and  Response   ●  Planning  is  the  best  way  to  minimize  the  potential  impact  of  a  public  health  threat     
+IX.  REFERENCES  
+  ●  McKenzie,  J.,  Pinger,  R.,  and  Seabert,  D.  (2018).  An  Introduction  to  Community  and  Public  Health.  9th  Edition  
+ 
+LEC  04,  PAGE  6  BSMT  1C  -  PALATAN,  J.  |  BATCH  ZEPHYRIUS 
+ 

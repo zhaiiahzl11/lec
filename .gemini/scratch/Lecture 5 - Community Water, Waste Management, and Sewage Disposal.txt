@@ -1,0 +1,172 @@
+ 
+05  LECTURE  
+HEALTH  CARE  
+MT  1,  Second  Semester  LECTURE  05  -  Sir  Micheal  Gu,  RMT 
+ 
+COMMUNITY  WATER,  WASTE  MANAGEMENT,  AND  SEWAGE  DISPOSAL  
+ 
+TOPIC  OVERVIEW  
+ 
+I .  Introduction  to  Environmental  Health  A.  What  is  environmental  health?  B.  Impact  of  poor  water  and  waste  management  II .  Water  in  the  Community  (Sources,  Treatment,  Quality)  A.  Importance  of  water  B.  Sources  of  water  in  the  community  C.  Water  treatment  methods  III.  Water  Contamination  and  Safe  Handling  A.  Water  contaminants  B.  WHO  and  National  Water  Quality  Standards  C.  Safe  handling  IV.  Community  waste  and  sewage  disposal  A.  Types  of  waste  B.  Consequences  of  improper  waste  disposal  C.  Methods  of  solid  waste  disposal  D.  Definition  of  sewage  E.  Septic  tanks  and  sewage  plants  F.  Impact  of  poor  sewage  management  G.  Wastewater  treatment  steps  V.  Stream  Pollution  and  Urban  runo  A.  Definition  of  stream  pollution  B.  Consequences  of  stream  pollution  C.  Urban  runoff  and  its  consequences  D.  How  agricultural  waste  pollutes  water  E.  Strategies  to  prevent  water  contamination  
+VI.  Solid  waste  management  and  recycling  A.  Waste  segregation  and  the  3Rs  B.  Collection,  storage,  and  transport  of  waste  C.  Safe  disposal  of  chemicals  and  regulations  D.  The  role  of  government  policies  in  waste  management  VII.  Summary  
+ 
+ 
+LEARNING  OBJECTIVES  
+1.  Understand  the  relationship  between  water,  waste,  and  public  health  2.  Identify  sources  of  water  and  waste  contamination  3.   Learn  water  treatment  and  waste  disposal  methods  4.   Explore  sustainable  waste  management  practices  5.  Recognize  chemical  safety  protocols  in  waste  and  water  management  
+ 
+I.  INTRODUCTION  TO  ENVIRONMENTAL  HEALTH  
+ 
+A.  ENVIRONMENTAL  HEALTH  
+●  Environmental  health  examines  external  factors  that  affect  human  well-being  ●  It  studies  the  factors  that  directly  affect  our  public  safety ,  economic  development ,  and  sustainability  in  our  community.  ●  Factors/Key  components:  ○  Water  quality  (Clean  Water)  ■  Ensuring  clean  drinking  water  and  wastewater  management  ○  Air  quality  (Clean  Air)  
+■  Pollution  control,  emission  reduction  ○  Waste  management  ■  Proper  disposal,  recycling,  and  composting  ○  Sanitation  and  hygiene  ■  toilets  ,  handwashing,  disease  prevention  ●  If  these  four  are  neglected,  there  will  be  poor  outcomes  
+B.  IMPACT  OF  POOR  HEALTH  AND  WASTE  MANAGEMENT  
+●  Health  impacts  ○  Contaminated  water  causes  diarrheal  diseases,  cholera,  and  typhoid  ○  Exposure  to  waste  increases  respiratory  infections  and  skin  diseases  ●  Environmental  impacts  ○  Polluted  rivers  and  lakes  lead  to  the  destruction  of  marine  life  ●  Economic  and  social  impacts  ○  Poor  sanitation  increases  healthcare  costs  ○  Contaminated  environments  reduce  tourism  and  economic  growth   
+●  Poor  outcomes  can  lead  to  disease  outbreaks ,  water  pollution ,  and  environmental  damage .  ●  Improper  waste  disposal  has  serious  consequences.  
+ 
+LEC  05,  PAGE  1  BSMT  1D  -  CHIU,  CANETE,  SCHMIDT,  TAN,  GONZALES  
+ 
+
+ 
+●  Water  pollution  increases  the  risk  of  diseases,  which  in  turn  creates  a  heavier  burden  on  healthcare  costs,  whether  for  individuals  (personal)  or  the  government.  ●  Pollution  damages  ecosystems,  which  affects  livelihoods  and  tourism .  ●  In  the  case  of  the  Philippines,  industries  such  as  island  hopping  and  whale  shark  watching  (Oslob)  can  be  negatively  impacted  by  water  pollution.  ●  Proper  waste  management  is  essential  for  maintaining  a  healthy  and  well-managed  community.  
+ 
+I.  WATER  IN  THE  COMMUNITY  (SOURCES,  TREATMENT,  QUALITY)  
+ 
+A.  IMPORTANCE  OF  WATER  
+●  Content:  ○  Water  is  the  most  critical  natural  resource,  yet  billions  don't  have  access  to  it.  ○  The  human  body  is  70%  water  -  essential  for  survival  ●  Uses  of  water:  ○  Drinking  &  Cooking :  Safe  hydration  and  food  preparation  ○  Sanitation  &  Hygiene :  Bathing,  washing,  and  cleaning,  especially  on  the  laboratory  machine,  by  cleaning  it  to  avoid  possible  cross-contamination.  ○  Agriculture  &  Industry :  Irrigation,  food  production,  and  manufacturing  ●  Global  Water  Crisis :  ○  2.2  billion  people  lack  access  to  safe  drinking  water.  ○  Climate  change  and  pollution  reduce  water  availability   
+●  Water  is  our  most  critical  natural  resource,  yet  millions  of  people  do  not  have  access  to  safe  drinking  water.  ●  It  is  essential  for  survival  and  hygiene,  and  also  a  necessary  component  in  food  production  and  many  industries.  ●  Even  in  the  laboratory,  we  are  highly  dependent  on  water  to  clean  our  machines  after  every  sample  run.  Without  properly  cleaning  our  machines,  test  results  can  be  affected.  ●  However,  because  of  human  activities,  our  water  supply  is  rapidly  decreasing  due  to  pollution,  overuse,  and  even  climate  change.  
+ 
+B.  SOURCES  OF  WATER  IN  THE  COMMUNITY  
+●  Water  comes  from  surface  water  sources,  groundwater  sources  or  rainwater  harvesting  Surface  Water  sources   
+ ●  Surface  water  sources  come  from  the  surface  of  the  Earth  (rivers,  lakes,  reservoirs,  streams).  ●  It  provides  water  for  millions  of  people.   ●  It  is  the  most  common  source  of  drinking  water  in  urban  areas.  ●  Examples:  ○  Rivers :  Nile,  Amazon,  Ganges  ○  Lakes :  Victoria,  Michigan,  Baikal  ○  Reservoirs :  Man-made  lakes  storing  water  for  human  use   
+●  Pros :  ○  Easy  to  access  ○  Can  store  large  amounts  of  water  ●  Cons  ○  Limitation:  Highly  vulnerable  to  pollution  (industrial  waste,  sewage,  and  chemicals)  ○  Requires  proper  treatment  before  it  is  considered  safe  for  human  consumption  
+Groundwater  sources   ●  Water  is  stored  beneath  the  earth’s  surface  in  aquifers,  wells,  and  springs  ●  Naturally  filtered  through  soil  and  rock  layers.   ●  Examples:  ○  Wells  &  Boreholes:  Access  underground  water  for  drinking  and  irrigation.  ○  Springs:  Natural  outflow  of  groundwater.  ●  Pros :  ○  Generally  cleaner  due  to  natural  filtration.  (Cleaner:  Ground  Water  >  Surface  Water)  ○  Less  exposed  to  pollution.   ●  Cons :  ○  Over-extraction  can  deplete  groundwater  levels.  ○  Risk  of  contamination  from  septic  tanks,  industrial  chemicals,  and  pesticides  ■  Overextraction  and  contamination  from  chemicals  can  lead  to  groundwater  becoming  unsafe      
+ 
+LEC  05,  PAGE  2  BSMT  1D  -  CHIU,  CANETE,  SCHMIDT,  TAN,  GONZALES 
+ 
+
+ 
+Rainwater  Harvesting   
+ ●  This  is  a  simple  and  effective  way  to  conserve  water.  ●  The  process  of  collecting  and  storing  rainwater  for  household,  agricultural,  or  industrial  use.  ●  Still  considered  a  surface  water  source  because  it  is  highly  exposed  to  pollution  and  requires   proper  storage  ●  Methods  of  Rainwater  Harvesting:  ○  Rooftop  Catchment  Systems :  Water  collected  from  rooftops  and  stored  in  tanks  or  underground  reservoirs.  ○  Surface  Runoff  Harvesting:  Rainwater  collected  from  the  ground  into  ponds,  dams,  or  underground  reservoirs.  ○  Rain  Barrels  &  Storage  Tanks :  Small-scale  collection  for  gardening  and  household  use.   
+●  It  allows  households  and  communities  to  store  water  for  later  use.  ●  However,  technically,  this  is  still  a  (artificial)  surface  water  source ,  which  means  it  is  highly  exposed  to  pollution.  ●  Proper  storage  is  essential  to  prevent  it  from  becoming  a  breeding  ground  for  mosquitoes  (reduce  the  spread  of  
+dengue  and  malaria)..  ●  Filtration  is  necessary  before  consuming  rainwater,  especially  in  today’s  environment,  where  acid  rain  is  becoming  more  common.  
+ ●  Benefits :  ○  Reduces  dependence  on  municipal/city  water  supply .   ■  Cebu  City:  MCWD  (reduced  dependence  =  low  water  bill)  ○  It  provides  a  free  and  sustainable  water  source ,  especially  in  our  tropical  country  where  rainfall  can  be  irregular.    ■  Collected  rainwater  can  be  used  for  washing  cars,  cleaning  homes,  and  watering  plants  ○  Helps  recharge  groundwater  levels .  ○  Reduces  stormwater  runoff  that  causes  flooding  through  the  community  effort  of  rainwater  collection  ●  Challenges  &  Limitations :  ○  Requires  proper  filtration  to  prevent  contamination  and  pollution.  ○  Not  effective  in  low  rainfall  areas.  ○  High  installation  costs  for  large  systems  
+WATER  TREATMENT  METHODS  
+●  Why  Water  Treatment  is  Necessary:  ○  Natural  water  sources  often  contain  bacteria,  viruses,  sediments,  and  chemical  pollutants.  ○  Treatment  ensures  water  is  safe  for  drinking  and  household  use.    
+TREATMENT  METHODS   1.  Boiling   
+ ●  Boiling  is  the  simplest  and  an  effective  method  to  kill  bacteria  and  viruses.   Simple  Boiling   ●  In  simple  boiling ,  water  is  heated  to  100°C  (212°F)  to  kill  microorganisms.  ●  Simple  Boiling  Disadvantage:  may  not  remove  any  chemical  pollutants    Pasteurization   ●  Another  form  of  boiling  is  pasteurization  ○  It  is  a  form  of  boiling;  however,  the  temperature  used  is  lower  and  controlled  ○  It  is  heated  at  62.5°C  (or  62-63°C)   ■  Why?  ●  To  not  break  down  protein  molecules  inside  the  milk  (for  safe  consumption)   ●  To  ensure  it  only  removes  harmful  bacteria  like  E.  coli  but  retains  good  bacteria  like  Lactobacillus .  ○  The  principle  behind  pasteurization  is  that  most  disease-causing  microorganisms  are  destroyed  at  temperatures  lower  than  boiling  
+ 
+LEC  05,  PAGE  3  BSMT  1D  -  CHIU,  CANETE,  SCHMIDT,  TAN,  GONZALES 
+ 
+
+ 
+○  Therefore,  water  does  not  need  to  reach  100°C  to  become  microbiologically  safer  ■  For  comparison,  when  proteins  are  exposed  to  high  heat  (like  in  milk  during  cheesemaking),  they  denature  and  coagulate  ■  Pasteurization  avoids  extremely  high  temperatures  to  prevent  major  chemical  changes  Effectiveness :  ○  Eliminates  bacteria,  viruses,  and  parasites  ○  Does  NOT  remove  chemical  pollutants  like  lead,  mercury,  or  pesticides  Distillation   ●  Another  form  of  boiling  is  distillation ,  which  can  remove  chemical  pollutants  (though  not  all)  ●  During  distillation,  white  residues  may  appear  in  the  flask,  indicating  remaining  chemical  contaminants  ●  Unlike  simple  boiling,  this  is  not  typically  seen  in  common  household   Tyndallization   ●  To  have  sterile  water,  there  is  one  thing  you  can  do  with  boiling  ●  Sterile  water  can  be  obtained  by  boiling  water  3  times ,  a  process  called  Tyndallization  ●  It  is  not  a  common  or  recommended  method  for  purifying  drinking  water  ●  This  method  is  also  rarely  used  in  modern  medicine  today,  as  more  effective  techniques  (autoclaves)  are  now  available  
+○  First  Cycle:  Boil  it  and  let  it  cool  down  (initially  kill  most  of  the  organisms)  ○  Second  Cycle:  Boil  again  and  cool  down  ○  Third  Cycle:  Boil  one  last  time  and  cool  down  (to  ensure  every  microorganism  is  killed)   2.  Filtration  
+ ●  Removing  physical  impurities  by  means  of  a  filter  ●  It  is  sufficient  in  that  function,  but  fails  to  eliminate  microorganisms  and  certain  chemicals  (only  chemicals  that  have  large  molecular  sizes)  ●  Filtration  is  commonly  used  together  with  Simple  Boiling  in  many  households  to  ensure  that  water  is  safer  for  consumption.   ●  Filtration  alone  can  be  insufficient.  ●  Process:  ○  Water  is  passed  through  porous  materials  (sand,  ceramic,  activated  carbon)  to  remove  contaminants.  ●  Effectiveness:  ○  Removes  dirt,  debris,  and  some  bacteria.  ○  Activated  carbon  filters  remove  chlorine  and  organic  compounds.  
+○  Does  NOT  remove  viruses  or  dissolved  chemicals  unless  specialized  filters  are  used   
+Method  Removes  Bacteria   
+Removes  Viruses   
+Removes  Chemicals   
+Best  for?  
+Boiling  Yes  Yes  No  HouseHold,  Emergency  Use  
+Filtration  Some  No  Some  Continues  Clean  Supply  
+ Chlorination  and  UV  treatment  
+Chlorination  ●  Process :  ○  Adding  chlorine  to  water  to  kill  bacteria,  viruses,  and  parasites  ●  Effectiveness :  ○  Used  in  city-wide  water  systems  worldwide  because  of  how  cost-effective  and  efficient.   ●  Limitations :  ○  Can  produce  chemical  by-products  that  may  produce  a  taste   UV  Treatment   ●  Process :  ○  Exposing  water  to  ultraviolet  light  disinfects  it.  ●  Effectiveness :  ○  It  is  highly  effective  in  killing  bacteria,  viruses,  and  protozoa.  ●  Limitations :  ○  Requires  electricity,  so  it  is  not  always  feasible  in  rural  areas  or  
+ 
+LEC  05,  PAGE  4  BSMT  1D  -  CHIU,  CANETE,  SCHMIDT,  TAN,  GONZALES 
+ 
+
+ 
+places  where  electricity  is  not  stable   Large-Scale  Water  Treatment  Plants   ●  Tycalayy  uses  in  urban  cities  and  uses  multiple  steps  to  ensure  safe  drinking  water  ●  It  starts  from  Coagulation  to  filtration  to  disinfection.   ●  Each  stage  ensures  that  each  step  removes  bacteria  and  contaminants  before  household  distribution  Stages  of  Water  Treatment:  1.  Coagulation  &  Flocculation  -  Chemicals  added  to  bind  dirt  particles.  2.  Sedimentation  -  Heavy  particles  settle  to  the  bottom.  3.  Filtration  -  Water  passes  through  sand  and  charcoal  filters  4.  Disinfection –  Chlorine  or  ozone  kills  remaining  bacteria.  5.  Storage  &  Distribution –  Clean  water  is  stored  and  sent  to  homes   
+II.  WATER  CONTAINMINATION  AND  SAFE  HANDLING  
+ 
+A.  WATER  CONTAMINANTS  
+Physical  and  Chemical    Physical  Contaminants   ●   Sediments,  soil,  plastic  debris  –  Common  in  surface  water.   ●  Cloudy  water  (Turbidity)  –  Affects  appearance  and  quality   ●  Example :  Plastics  or  any  physical  trash  human  throws  away   Chemical  Contaminants   ●  Heavy  Metals  (Lead,  Mercury,  Arsenic) –  Cause  poisoning  and  organ  damage.   ●  Pesticides  &  Fertilizers  –  Agricultural  runoff  contaminates  drinking  water.  
+●  Industrial  Waste  (Oil,  Chemicals,  Pharmaceuticals)  –  Hazardous  Pollutants.  ●  Example:  Industrial  waste  from  the  factory  that  is  dumped  in  the  river.  Fertilizer  or  even  cooking  oils  (Please  don’t  throw  it  in  the  sink).   Microbial    
+ ●  Bacteria   ○  E.  coli,  Salmonella,  Vibrio  cholerae  –  Cause  severe  gastrointestinal  diseases.   ○  Salmonella  typhi:  –  Causing  typhoid  fever  and  Salmonella  ○  Vibrio  cholerae  -  Causes  cholera   ○  Shigella  dysenteriae  -  causes  dysenteries   ●  Viruses  ○  Hepatitis  A,  Norovirus,  Rotavirus  –  Cause  stomach  flu  and  liver  infections.   ●  Protozoa   ○  Giardia,  Cryptosporidium  –  Found  in  untreated  water  sources  and  are  resistant  to  chlorine(Not  recommended  to  drink  water  directly  from  the  tap)  ■  If  you  have  no  choice  to  drink  tap  water,  you  need  to  boil  it  first   
+B.  WHO  AND  NATIONAL  WATER  QUALITY  STANDARDS  
+●  A  set  of  standards  to  ensure  the  water  is  safe  from  harmful  bacteria,  chemicals,  and  excessive  mineralization   ●  It  is  set  by  our  government  to  ensure  that  our  water  supply  is  protected  
+WHAT  IS  MINERALIZATION?  ●  Mineralization  is  the  process  of  converting  organic  compounds  into  inorganic,  mineral  forms  through  microbial  decomposition  (soil  science)  or  the  deposition  of  inorganic  materials  into  organic  matrices  (biology/geology)  
+ ●  World  Health  Organization  (WHO)  Standards  ○  Drinking  water  should  have  zero  coliform  bacteria .  ■  Presence  of  coliform  bacteria  may  indicate  a  contamination  of  feces,  both  human  and  animal   ○  Chemical  contamination  must  not  go  above  a  certain  threshold  level.  ■  Example:  The  normal  level  of  arsenic  contamination  of  water  to  be  safe  according  to  WHO  Standards  are  generally  below  10   g/L  ○  Maximum  contaminant  levels  for  heavy  metals  and  chemicals   ○  pH  should  be  between  6.5  and  8.5  for  safe  consumption  because  at  that  range  it  is  safe  for  consumption  ■  Below  6.5  =  chemical  contamination  of  acidic  nature  ■  Above  8.5  =  chemical  contamination  of  basic  or  
+ 
+LEC  05,  PAGE  5  BSMT  1D  -  CHIU,  CANETE,  SCHMIDT,  TAN,  GONZALES 
+ 
+
+ 
+alkaline  in  nature,  or  it  also  suggests  a  severe  microbial  contamination  because  when  bacteria  come  into  contact  with  liquid  it  creates  a  basic  environment.  ●  National  Standards:   ○  Countries  have  their  own  water  safety  regulations.   ○  Regular  water  testing  ensures  compliance  with  health  standards.   
+C.  SAFE  HANDLING  
+●   Common  Tests:   ○  Coliform  Bacteria  Test  -  Detects  fecal  contamination.   ○  Turbidity  Test  –  Measures  water  clarity.   ○  Pathogen-Specific  Tests  –  Identifies  cholera,  typhoid,  and  other  harmful  microorganisms  Testing  for  Microbial  Contamination.   Testing  for  Microbial  Contamination   1.  Coliform  Bacteria  Test  
+ 
+INTERPRETATION  OF  RESULTS  Test  Tube  A:  Presumptive  POSITIVE  for  coliform  bacteria  —  lactose  fermentation  occurred,  shown  by  color  change  (acid  production)  and  gas  
+bubble  in  the  Durham  tube  (not  safe)   Test  Tube  B:  NEGATIVE  for  coliform  bacteria  —  no  color  change  and  no  gas  bubble ,  indicating  no  lactose  fermentation  (safe)   Test  Tube  C:  NEGATIVE  (acid  only)  —  color  changed  (acid  production)  but  no  gas  bubble  in  the  Durham  tube,  so  it  is  not  counted  as  presumptive  positive  for  coliforms ;  proceed/retest  if  required  by  the  lab  protocol.  (Not  safe)   
+●  Note :  To  ensure  a  safe  water  sample  is  considered  safe,  there  must  be  no  change  in  color  and  no  bubble  formation.   2.  Turbidity  Test  
+ ●  The  simplest  test  you  can  do  for  microbial  contamination  is  turbidity  test  ●  Pour  water  into  a  clear  beaker  to  test  for  turbidity.  If  clear,  it  is  presumably  safe  to  drink  3.  Pathogen-Specific  Tests  ●  Basically  test  kit  to  test  directly  for  E.coli,  Shigella  dysenteriae,  and  for  those  specific  bacteria  that  cause  harm  to  our  health  ●  But  It's  Expensive  :(  ●  Common  Chemical  Tests:   ○  Lead  and  arsenic  testing  –  Detects  heavy  metals.   ■  Example:  Microchip  industry  manufacturing   
+○  pH  analysis  –  Ensures  safe  acidity  levels.   ○  Nitrate  and  nitrite  testing  –  Prevents  contamination  from  fertilizers.  Safe  Water  Collection  &  Transport   ■  This  is  done  in  an  agricultural  area  because  of  possible  fertilizer  contamination.  Safe  Water  Collection  &  Transport   ●  Best  Practices:   ○  Use  sealed,  clean  containers  for  water  storage .   ○  Avoid  direct  hand  contact  with  drinking  water.   ○  Use  covered  buckets  or  jerry  cans  to  prevent  contamination  Safe  Water  Storage   Safe  Water  Storage   ●  Storage  Guidelines:   ○  Keep  water  in  cool,  dark  places  to  prevent  bacterial  growth.   ○  Use  airtight  lids  to  prevent  contamination.  ○  Clean  storage  containers  regularly  with  mild  disinfectants.  Preventing  Contamination   Preventing  Contamination    ●  Key  Steps:   ○  Separate  clean  and  dirty  water  containers.   ○  Do  not  dip  hands  or  dirty  utensils  into  stored  drinking  water.   ○  Disinfect  storage  tanks  and  pipelines  regularly    
+III.  COMMUNITY  WASTE  AND  SEWAGE  DISPOSAL  
+ 
+ 
+LEC  05,  PAGE  6  BSMT  1D  -  CHIU,  CANETE,  SCHMIDT,  TAN,  GONZALES 
+ 
+
+ 
+A.  TYPES  OF  WASTE  
+Main  Types    ●  Organic  Waste:   ○  Includes  food  scraps,  garden  waste,  and  agricultural  residues.   ○  Can  be  composted  into  fertilizer.   ●  Recyclable  Waste:   ○  Includes  paper,  plastic,  glass,  and  metals.   ○  Can  be  reused  or  processed  into  new  products.   ●  Hazardous  Waste:   ○  Includes  batteries,  medical  waste,  chemicals,  and  toxic  materials.   ○  Requires  special  disposal  methods  to  prevent  environmental  harm.   ●  Industrial  Waste :   ○  Byproducts  from  factories,  power  plants,  and  refineries.   ○  Can  include  chemicals,  heavy  metals,  and  toxic  sludge   Solid  vs.  Liquid  Waste    ●  Solid  Waste:   ○  Includes  household  garbage,  plastics,  metals,  paper,  and  construction  debris.   ○  Can  be  recycled,  composted,  incinerated,  or  landfilled.   ●  Liquid  Waste:   ○  Includes  sewage,  industrial  wastewater,  chemicals,  and  oil  spills.   ○  Requires  treatment  before  disposal  into  water  bodies  
+B.  CONSEQUENCES  OF  IMPROPER  WASTE  DISPOSAL  
+●  Water  Contamination:  ○  Pollutants  seep  into  groundwater,  rivers,  and  lakes.   
+●  Soil  Pollution:   ○  Toxic  waste  makes  soil  infertile  and  harmful  for  agriculture.   ●  Air  Pollution:   ○  Burning  waste  releases  toxic  gases  and  greenhouse  emissions.   ●  Health  Risks:   ○  Waste  attracts  disease-carrying  pests  (rats,  flies,  mosquitoes).   ○  Increases  the  risk  of  respiratory  infections,  food  poisoning,  and  waterborne  diseases.   
+C.  METHODS  OF  SOLID  WASTE  DISPOSAL  
+●  Landfilling:   ○  Most  common  method,  but  causes  groundwater  contamination .   ●  Incineration:   ○  Burning  waste  to  reduce  volume,  but  releases  air  pollutants .   ●  Composting:   ○  Converts  organic  waste  into  fertilizer  for  farming.   ●  Recycling:   ○  Reduces  waste  by  reusing  materials  like  glass,  paper,  and  plastic  
+D.  WHAT  IS  SEWAGE?  
+●  It  is  called  liquid  waste  (a  mixture  of  solid  and  liquid  waste)  ●  Waste  water  from  homes,  businesses,  and  industries.   ●  Components:   ○  Human  waste  (feces,  urine).   ○  Soaps,  detergents,  food  scraps.   ○  Industrial  chemicals,  grease,  and  heavy  metals.   ●  Health  Risks:   ○  Can  carry  bacteria,  viruses,  and  parasites.  ○  Causes  waterborne  diseases  if  untreated   
+E.  SEPTIC  TANKS  AND  SEWAGE  PLANTS  
+●  Septic  Tanks:   ○  Small-scale  wastewater  treatment  for  rural  areas  ○  Requires  regular  emptying  and  maintenance.   ●  Sewage  Treatment  Plants:   ○  Large-scale  systems  that  process  municipal  wastewater.   ○  Uses  biological  and  chemical  treatments  to  remove  contaminants  
+F.  IMPACT  OF  POOR  SEWAGE  MANAGEMENT  
+●  Water  Contamination:   ○  Wastewater  seeps  into  rivers  and  groundwater.   ●  Disease  Spread:   ○  Increases  risk  of  cholera,  hepatitis,  and  dysentery.   ●  Environmental  Damage:   ○  Kills  fish  and  marine  life  due  to  oxygen  depletion   
+G.  WASTEWATER  TREATMENT  STEPS  
+1.   Screening:  Removes  large  objects  (plastic,  sticks,  cloth).   2.  Primary  Treatment:  Solids  settle,  grease  and  oil  are  skimmed.   3.  Secondary  Treatment:  Bacteria  break  down  organic  matter.   4.  Tertiary  Treatment:  Advanced  filtration  removes  remaining  contaminants.   5.  Disinfection:  Chlorination  or  UV  light:  kills  harmful  bacteria.   
+IV.  STREAM  POLLUTION  AND  URBAN  RUNOFF  
+ 
+A.  WHAT  IS  STREAM  POLLUTION  
+ ●  Stream  Pollution  occurs  when  harmful  substances  enter  rivers,  lakes   and  
+ 
+LEC  05,  PAGE  7  BSMT  1D  -  CHIU,  CANETE,  SCHMIDT,  TAN,  GONZALES 
+ 
+ 
+streams.  Making  the  water  unsafe  for  drinking  and  damaging  aquatic  life.  ●  How  to  prevent  stream  pollution  by  enforcing  strict  regulations  and  promoting  sustainable,  safe  practices   ●  Sources  of  Stream  Pollution:  ○  Industrial  Waste:  Factories  discharge  chemicals  and  heavy  metals  into  rivers.  ○  Sewage  Discharge:  Untreated  wastewater  enters  streams,  increasing  bacteria  and  nutrient  pollution.  ○  Agricultural  Runoff:  Fertilizers,  pesticides,  and  livestock  waste  contaminate  water  sources.  ○  Plastic  Pollution:  Plastic  debris  clogs  waterways  and  harms  fish  and  birds.   
+B.  CONSEQUENCES  OF  STREAM  POLLUTION  
+ ●  Unsafe  drinking  water  ○  Requires  expensive  treatment  ●  Loss  of  biodiversity  ○  Fish  and  aquatic  life  die  due  to  pollution.  ●  Dead  Zones  ○  Excess  nutrients  cause  algal  blooms  that  deplete  oxygen.  
+C.  URBAN  RUNOFF  AND  ITS  CONSEQUENCES  
+●  It  is  a  form  of  liquid  pollution  that  is  exclusively  found  in  the  city   (asphalted  roads  and  motor  vehicles)  ●  Rainwater  that  flows  over  streets,  sidewalks,  and  rooftops  collects  pollutants  before  draining  into  waterways.  ●  Common  Pollutants  in  Urban  Runoff:  ○  Oil  and  grease  from  vehicles  ○  Heavy  metals  from  roads  and  construction   
+○  Pesticides  and  fertilizers  from  lawns  ○  Litter,  plastic  debris,  and  pet  wastes   ●  impacts :  ○  Overwhelms  drainage  systems,  increasing  flooding  risks.  ○  Introduces  toxins  and  bacteria  into  rivers.  ○  Reduces  water  quality  and  affects  aquatic  life  
+D.  HOW  AGRICULTURAL  WASTE  POLLUTES  WATER  
+ ●  Common  Agricultural  Pollutants:  ○  Pesticides  &  Herbicides -  Harmful  chemicals  wash  into  rivers,  contaminating  drinking  water.  ○  Fertilizers  (Nitrates  &  Phosphates) -Excess  nutrients  cause  algal  blooms  that  deplete  oxygen.  ○  Livestock  Waste -  Animal  feces  introduce  E.  coli  and  other  bacteria  into  water.  ●   Impact  on  Ecosystems  and  Human  Health  ○  Dead  Zones:  Excess  fertilizers  lead  to  low  oxygen  levels,  killing  fish.  ○  Drinking  Water  Contamination:  Nitrates  in  water  cause  blue  baby  syndrome  in  infants.  ○  Spread  of  Waterborne  Diseases:  Animal  waste  introduces  harmful  bacteria  into  rivers  
+E.   STRATEGIES  TO  PREVENT  WATER  CONTAMINATION   
+●  Improve  Wastewater  Treatment:  ○  Upgrade  sewage  plants  to  remove  harmful  chemicals.  ○  Promote  community  sanitation  projects.  ●  Reduce  chemical  use  in  farming:  
+○  Use  organic  pesticides  and  fertilizers.  ○  Practice  crop  rotation  and  natural  pest  control.  ●  Implement  Green  Infrastructure:  ○  Create  vegetative  buffer  zones  near  rivers.  ○  Install  permeable  pavements  to  reduce  runoff  ●  Have  other  methods  of  sheltering  animals  ○   To  prevent  the  spread  of  feces  from  animal  droppings   
+V.  SOLID  WASTE  MANAGEMENT  AND  RECYLING  
+ 
+A.  WASTE  SERGREGATION  AND  THE  3Rs  
+●  Reduce  ○  Minimize  waste  by  using  eco-friendly  alternatives.  ○  Example:  Use  reusable  shopping  bags  instead  of  plastic.  ●  Reuse  ○  Repurpose  items  instead  of  throwing  them  away.  ○  Example:  Glass  bottles  can  be  cleaned  and  reused  for  storage.  ●  Recycle  ○  Convert  old  materials  into  new  products.  ○  Example:  Plastic  bottles  can  be  recycled  into  textile  fibers  
+B.   COLLECTION,  STORAGE  AND  TRANSPORT  OF  WASTE  
+●  Household  Collection:  ○  Waste  bins  for  biodegradable,  recyclable,  and  non-recyclable  waste.  ●  Municipal  Waste  Collection:  ○  Garbage  trucks  collect  and  transport  waste  to  disposal  sites.  ●  Industrial  Waste  Transport:  
+ 
+LEC  05,  PAGE  8  BSMT  1D  -  CHIU,  CANETE,  SCHMIDT,  TAN,  GONZALES 
+ 
+ 
+○  Factories  must  separate  hazardous  waste  for  proper  treatment   
+VI.  CHEMICAL  SAFETY  IN  WASTE  AND  WATER  MANAGEMENT  
+ 
+A.  HANDLING  AND  STORAGE  OF  HAZARDOUS  CHEMICALS  
+●  Why  Proper  Handling  is  Important :  ○  Prevents  chemical  spills  and  contamination  of  water  sources.  ○  Reduces  exposure  to  toxic  and  corrosive  substances.   ●  Safety  Guidelines:  ○  Label  hazardous  materials  properly  (clear  warnings  and  hazard  signs).  ○  Store  chemicals  in  secure,  ventilated  areas,  away  from  food  and  drinking  water.  ○  Use  protective  equipment  (gloves,  masks,  goggles)  when  handling  dangerous  chemicals  ○  The  most  important  label  of  chemicals  is  the  date  created  ○  Bare  minimum  of  labeling:  ■  Name   ■  Concentration  ■  Date  created   ■  Who  created  
+B.  RISK  OF  CHEMICAL  CONTAMINATION  IN  WATER  AND  WASTE  
+ ●  Sources  of  Chemical  Contamination:  ○  Industrial  waste  is  dumped  into  rivers  and  lakes.  ○  Improper  disposal  of  household  chemicals  (bleach,  paints,  batteries).  
+○  Agricultural  runo  (pesticides,  herbicides,  fertilizers).   ●  Health  Risks :  ○  Heavy  metals  (Lead,  Mercury,  Arsenic):  Cause  nerve  damage  and  poisoning.  ○  Pesticides  &  Herbicides:  Linked  to  cancer,  hormone  disruption,  and  birth  defects.  ○  Chemical  residues  in  water:  Lead  to  long-term  chronic  illnesses  
+C.  SAFE  DISPOSAL  OF  CHEMICALS  AND  REGULATION  
+●  Government  Regulations :  ○  Strict  guidelines  for  hazardous  waste  disposal  (Environmental  Protection  Agencies).  ○  Industries  required  to  treat  chemical  waste  before  disposal.   ●  Safe  Disposal  Methods :  ○  Specialized  hazardous  waste  facilities  for  industrial  chemicals.  ○  Community  collection  centers  for  household  chemicals.  ○  Promoting  biodegradable  &  eco-friendly  alternatives   
+D.  THE  ROLE  OF  GOVERNMENT  POLICIES  IN  WASTE  MANAGEMENT  
+●  Why  Government  Policies  Matter:  ○  Regulate  industrial  waste  disposal.  ○  Prevent  illegal  dumping  and  fine  violators.  ○  Encourage  public  awareness  and  environmental  education.   ●  Key  Policies  &  Regulations:  ○   Clean  Water  Act  (USA  &  other  countries)–Protects  water  from  Pollution.  
+○  Extended  Producer  Responsibility  (EPR)  -  Companies   must  manage  waste  from  their  products  ○  Plastic  bans  &  Waste  Reduction  Laws  -  Reduce  single-use  plastics   
+VII.  SUMMARY  
+ ●  Proper  waste  and  water  management  prevent  pollution  and  disease  ●  Sustainable  practices  like  recycling  and  composting  reduce  landfill  waste  ●  Government  policies  play  a  key  role  in  regulating  waste  disposal  ●  Community  participation  is  essential  for  effective  waste  management  ●  Challenges  in  waste  and  water  management  ○  Lack  of  awareness  and  public  participation  ○  Limited  infrastructure  for  waste  disposal  in  rural  areas  ○  High  costs  of  sustainable  waste  management  ●  Future  of  waste  and  water  management  ○  Advancements  in  waste-to-energy  technologies  ○  Expansion  of  recycling  and  biodegradable  packaging  ○  More  government  policies  to  combat  pollution  ●  Call  to  action  -  what  you  can  do  ○  Reduce  waste  by  avoiding  single-use  plastics  ○  Recycle  and  compost  whenever  possible  ○  Support  policies  for  better  waste  and  water  management  ○  Educate  others  about  the  importance  of  sustainability  
+ 
+LEC  05,  PAGE  9  BSMT  1D  -  CHIU,  CANETE,  SCHMIDT,  TAN,  GONZALES 
+ 

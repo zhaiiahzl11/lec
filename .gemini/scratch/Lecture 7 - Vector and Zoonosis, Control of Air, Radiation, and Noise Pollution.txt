@@ -1,0 +1,185 @@
+ 
+07  LECTURE  
+HEALTH  CARE  
+MT  1,  Second  Semester  LECTURE  07  -  Ms.  Megan  Ruth  C.  Fernandez,  RMT 
+ 
+VECTOR  AND  ZOONOSIS,  CONTROL  OF  AIR,  RADIATION,  AND  NOISE  POLLUTION  
+ 
+TOPIC  OVERVIEW  
+ 
+I.  ZOONOSIS ................................................................................................ 1
+ A.  CLASSIFICATION  BASED  ON  ETIOLOGICAL  AGENTS ............................ 1
+ B.  CLASSIFICATION  BASED  ON  TRANSMISSION  CYCLE ........................... 2 C.  CLASSIFICATION  BASED  ON  RESERVOIR  HOSTS ................................... 2 D.  CLASSES  OF  ZOONOSIS  ACCORDING  TO  WHO .................................... 2 E.  TRANSMISSION  ROUTES  OF  ZOONOTIC  DISEASES ............................... 2 F.  WORST  PANDEMICS  OF  ZOONOTIC  ORIGIN ............................................ 2 G.  PRINCIPLES  OF  ZOONOSES  PREVENTION,  CONTROL,  AND  ERADICATION ................................................................................................................. 2 H.  ACTIONS  IN  ZOONOSIS  CONTROL ................................................................ 3 II.  VECTORS ................................................................................................ 3 A.  VECTOR-BORNE  DISEASES ................................................................................ 3 B.  MAIN  VECTORS  AND  THE  DISEASE  THEY  TRANSMIT ............................ 3 C.  CONTROL  OF  VECTORS ...................................................................................... 3 D.  METHODS  OF  VECTOR  CONTROL .................................................................. 4 E.  VECTOR  CONTROL  MEASURES ........................................................................ 4 F.  ENHANCED  4S  STRATEGY  IN  DENGUE  PREVENTION ............................ 4 III.  AIR,  NOISE,  RADIATION  POLLUTION ................................................... 4 A.  AIR  POLLUTION ......................................................................................................... 4 B.  NOISE  POLLUTION ................................................................................................... 4 C.  RADIATION  POLLUTION ....................................................................................... 5 IV.  REFERENCES ......................................................................................... 5 
+ 
+ 
+I.  ZOONOSIS  
+ ●  Any  disease  of  infection  that  is  naturally  transmissible  from  animals  to  humans .  (WHO,  2025)  ●  Can  be  caused  by:  ○  Bacteria   ○  Viruses  ○  Parasites  ○  Fungi  ●  May  involve  unconventional  agents  ●  Can  spread  to  humans  through  direct  contact  or  through  food,  water,  or  the  environment  ●  It's  important  for  us  to  study  zoonosis  because  we  have  a  close  relationship  with  animals  through  agriculture  and  pets.  ○  Because  of  this,  the  transmission  of  disease  is  also  faster  and  we  are  more  prone  to  disease  carried  by  animals   Classification  of  Zoonosis   ●  Etiological  Agents  ○  Causative  Agents  ●  Transmission  Cycle  ●  Reservoir  Hosts      
+A.  CLASSIFICATION  BASED  ON  ETIOLOGICAL  AGENTS  
+ BACTERIAL   Brucellosis   ●  Brucella  ●  From  unpasteurized  dairy  products  or  infected  animal  tissues  ●  Either  through  direct  contact  or  accidental  ingestion  ●  Could  through  transmitted  through  aerosols   Leptospirosis   ●  Leptospira  interrogans  ●  Could  be  transmitted  through  direct  contact  of  urine  from  rats  or  dogs.  ●  Maintained  in  the  kidneys  of  wild  and  domestic  animals  ●  Just  like  rabies,  not  all  dogs  or  rats  have  leptospira  interrogans ,  but  they  may  get  it  from  the  environment   Listeriosis   ●  Listeria  monocytogenes  ●  Foodborne  -  Cheeses,  Raw  or  Unpasteurized  Milk  ●  Animals  could  also  get  this  disease  and  cause  septicemia  for  them  ●  Mild  manifestations  for  listeriosis  include  gastrointestinal  issues  
+ 
+LEC  07,  PAGE  1  BSMT  1C  -  ANGO,  DIVINAGRACIA,  LUCERO,  PALATAN,  VILLACERAN,  VALLENTE  
+ 
+
+ 
+●  Could  cause  spontaneous  abortions  in  pregnant  women  ●  Easily  contracted  by  immunocompromised  people   Tuberculosis   ●  Mycobacterium  bovis  (cattles  to  humans)  ●  Mycobacterium  Tuberculosis  (human  to  human)  ●  Transmitted  through  ingestion.  Inhalation,  or  aerosols   Scrub  Typhus  |  Rickettsia  tsutsugamushi   ●  Oriental  tsutsugamushi  ●  Same  family  with  rickettsia  rickettsii  ●  Uses  vectors   ○  Bites  of  larval  trombiculid  mites  (chiggers)   RMSF  |  Rocky  Mountain  Spotted  Fever   ●  Rickettsia  rickettsii  ●  Bacterial  infection,  but  uses  vectors  ○  Spread  by  tick  bites   VIRAL   Rabies   ●  Rabies  virus  (RABV)  ●  Direct  contact  (usually  saliva)  through  bites  or  scratches  (depending  on  the  viral  load)  ●  Can  manifest  in  a  month  to  a  year  ●  Not  limited  to  cats  and  dogs,  it  also  includes  bats  and  raccoons.  
+   
+Japanese  Encephalitis   ●  Mosquito  borne  flavivirus  ●  Culex  spp ,  endemic  to  Asia  and  Western  Pacific  ●  Same  family  with  the  Dengue  virus  (Flavivirus)  
+Dengue   ●  Flaviviridae  family  ●  Aedes  aegypti  ●  Endemic  to  the  Philippines   MYCOTIC  OR  FUNGAL   ●  Doesn't  usually  use  fomites.  Most  of  them  are  transmitted  through  aerosols    Dermatophytosis   ●  Microsporum  and  Trichophyton  ,  Microsporum  canis  (cats  and  dogs)  ●  Superficial  infection  ○  Infection  is  only  until  the  skin,  hair,  and  nails   ●  Transmitted  through  beddings,  floormates,  grooming  tools  (especially  cats  and  dogs)  ○  Significant  concern  for  veterinarians  and  animal  handlers  ●  Only  manifestation  is  a  round  rash  redness   Cryptococcosis  ●  Cryptococcus  neoformans  spores  ●  Fungal  Infection  from  soil  decaying  wood  and  pigeon  droppings      
+Histoplasmosis   ●  Histoplasma  capsulatum  ●  Found  in  soil  enriched  with  bird  or  bat  droppings   PARASITIC   Toxoplasmosis  ●  Toxoplasma  gondii  ●  Foodborne  ●  Contact  with  contaminated  cat  poop  or  eating  contaminated  food .  ●  Can  cause  miscarriage  in  women  ●  More  severe  in  immunocompromised  people   Visceral  larva  migrans  ●  Toxocara  spp.   ●  Dirt  contaminated  with  pet  poop  (cats  and  dogs)   Hydatid  Disease  ●  larval  stage  of  Echinococcus  granulosus  tapeworms  ●  Accidental  ingestion  of  these  tapeworms,  eggs  will  appear  in  the  liver,  lungs,  and  brain.   
+B.  CLASSIFICATION  BASED  ON  TRANSMISSION  CYCLE  
+ ORTHOZOONOSES  (DIRECT  ZOONOSES)   ●  Single  vertebrate  species ,  either  direct  or  indirect  contact  ●  Ex.  Anthrax,  Rabies,  Tuberculosis,  Brucellosis  
+ 
+LEC  07,  PAGE  2  BSMT  1C  -  ANGO,  DIVINAGRACIA,  LUCERO,  PALATAN,  VILLACERAN,  VALLENTE 
+ 
+ 
+●  Ex.  Anthrax  ( Bacillus  anthracis)  
+ Figure  1.  Anthrax  Cycle   ●  In  the  whole  lifespan  of  Bacillus  anthracis,  they  may  only  infect  1  species  ●  Could  also  be  transmitted  through  aerosols  ●  Also  used  as  a  bioterrorism  agent   ○  Has  severe  and  fast-acting  effects   CYCLOZOONOSES   ●  Require  2  or  more  vertebrate  hosts  to  complete  transmission  cycle  ●  Ex.  Taenia  solium  and  saginata,  Hydatid  disease,  Toxoplasmosis  ●  Ex.  Taenia  solium  
+ Figure  2.  Taenia  solium  Cycle  
+●  Contracted  when  consuming  raw   or  uncooked  meat  (specifically  pork)  ○  Cysticerci  goes  to  the  small  intestine  and  starts  to  grow  as  an  adult  ○  Needs  to  go  to  another  host  to  grow   METAZOONOSES   ●  Both  Vertebrate  and  Invertebrate  species  are  involved  in  transmission.  ●  Ex.  Yellow  Fever,  Paragonimiasis,  Clonorchiasis  ●  Ex.  Yellow  Fever  
+ Figure  3.  Yellow  Fever  Cycle    ●  A  viral  disease  ●  Even  though  the  virus  can  live  in  a  non-human  primate,  it  cannot  infect  humans  unless  they  use  vectors/invertebrate  species  (mosquitoes)  ●  Other  humans  cannot  infect  other  humans  without  an  invertebrate  vector   SAPROZOONOSES   ●  Require  a  non-animate  substance  in    addition  to  vertebrate  or  invertebrate  host.  
+●  Ex.  Cutaneous  larva  migrans,  Histoplasmosis,  Fascioliasis  ●  Ex.  Cutaneous  Larva  Migrans  
+ Figure  4.  Cutaneous  Larva  Migrans  Cycle   ●  Caused  by  hookworms  ( Ancylostoma  sp.)  ●  One  hookworm  defecate  in  the  feces  of  cats  and  dogs,  it  will  stay  in  the  environment  ●  In  the  soil  of  the  environment  (the  non-animate  substance),  it  will  hatch  and  form  into  larva  ●  It  will  develop  into  an  infected  larva  (filariform  larva),  which  will  then  penetrate  through  the  person’s  skin  and  infect  ●  Uses  feces  and  soil  in  their  development    
+C.  CLASSIFICATION  BASED  ON  RESERVOIR  HOSTS  
+ ●  Reservoir  Host  ○  Where  the  disease  came  from  and  where  it  is  passed   Anthrapozoonoses   ●  Animals  to  Humans  ●  Ex.  Rabies,  Dengue   
+ 
+LEC  07,  PAGE  3  BSMT  1C  -  ANGO,  DIVINAGRACIA,  LUCERO,  PALATAN,  VILLACERAN,  VALLENTE 
+ 
+
+ 
+Zooanthroponoses  (Reverse  Zoonoses)   ●  Humans  to  Animals   Amphixenoses   ●   Man  to  Animal  or  Animal  to  Man  ●  Ex.  Staphylococcus  aureus ,  specially  the  MRSA   (Methicillin-resistant  Staphylococcus  aureus)  Type   
+D.   CLASSES  OF  ZOONOSIS  ACCORDING  TO  WHO  
+ Endemic  Zoonoses   ●  Present  in  many  places  and  affect  many  people  and  animals.  ●  Expected  to  be  many  already  ●  Ex.  Rabies,  Brucellosis,  Leptospirosis    Epidemic  Zoonoses   ●  Sporadic  in  temporal  and  spatial  distribution  ●  Not  expected  to  increase  ●  Ex.  COVID-19  (early  months),  Influenza,  Plague   Emerging  Zoonoses   ●  Newly  appearing  in  a  population  or  have  existed  previously  but  are  rapidly  increasing  in  incidence  or  geographical  range.  ●  Ex.  Rift  Valley  fever,  SARS,  pandemic  influenza  H1N1  2009,  Yellow  fever,  Avian  Influenza  (H5N1)  and  (H7N9)       
+EMERGING  ZOONOSIS   ●  Either  a  really  new  disease  or  an  old  disease  that  reemerge  (due  to  change  of  habitat  and  population)  ●  Emerging  zoonoses  may  be  caused  by  previously  unknown  agents  (i.e.  ‘true’  emergence)  or  by  changes  in  the  exposure  or  susceptibility  of  hosts  leading  to  an  increased  number  of  cases.  ●  Could  be  a  global  emergence  or  a  local  ●  Some  authors  also  distinguish  between  global  emergence  –  outbreaks  due  to  agents  observed  for  the  first  time  worldwide,  or  local  emergence  –  occurrence  of  a  known  agent  in  geographical  areas  previously  free  of  disease.  
+Factors  Influencing  Emerging  Zoonoses   ●  Environmental  Change  ○  Climate  Change  &  Deforestation  ○  Fruit  bats  carrying  Nipah  Virus  relocate  near  residential  areas  due  to  disturbance  in  habitat  ●  Human  and  Animal  Demography  (Statistics)  ○  Overpopulation  &  Global  Travel  ●  Pathogen  Changes  ○  Mutations  made  them  stronger  ■  Influenza  Viruses  (H1N1,  H2N2,  H2N3,  etc.)  ■  COVID-19  (Delta,  Omicron)  ●  Changes  in  Farming  Practice  ○  Industrialized  Farming  to  make  up  with  the  demands  ■  Hygiene  and  sanitation  is  not  taken  into  account  anymore  ●  Social  and  Cultural  factors  ○  Food  Preparation  &  Cultural  Practices  
+E.  TRANSMISSION  ROUTES  OF  ZOONOTIC  DISEASES  
+ AEROSOLS   ●  Occurs  when  droplets  are  passed  through  the  air  from  an  infected  animal  and  are  breathed  in  by  a  person  ●  Ex.  Droplets  from  tissues,  soil  contaminated  with  feces  or  urine  and  dust  particles  ●  Ex.  Tuberculosis   ORAL   ●  Occurs  by  ingesting  food  or  water  contaminated  with  pathogen   ●  Ex.  Animal  products  such  as  milk  and  meat  not  pasteurized  and  cooked  properly,  eating  or  drinking  after  handling  animals  w/o  washing  hands  ●  Ex.  Salmonella,  Brucellosis   DIRECT  CONTACT   ●  Coming  into  contact  with  the  saliva,  blood,  urine,  mucus,  feces,  or  other  body  fluids  of  an  infected  animal  ●  Ex.  Rabies  through  saliva,  HIV  through  blood,  Leptospirosis  through  urine   FOMITE   ●  An  inanimate  object  that  can  carry  a  pathogen  from  an  animal  to  a  person  or  from  a  person  to  another.  ●  Usually  a  fungal  infection  ○  Because  fungi  sticks  to  surfaces,  especially  if  they  are  moist  and  damp  
+ 
+LEC  07,  PAGE  4  BSMT  1C  -  ANGO,  DIVINAGRACIA,  LUCERO,  PALATAN,  VILLACERAN,  VALLENTE 
+ 
+ 
+●  Ex.  Door  knobs,  Contaminated  brushes,  Needles,  Clothes   VECTOR-BORNE   ●  Being  bitten  by  a  tick,  or  an  insect  like  a  mosquito  or  a  flea  ●  Ex.  Dengue  hemorrhagic  fever  transmitted  by  an  infected  mosquito   
+F.  WORST  PANDEMICS  OF  ZOONOTIC  ORIGIN  
+ The  Black  Death    ●  Yersinia  pestis  ●  Humans  usually  become  infected  through  the  bite  of  an  infected  rodent  flea  or  by  handling  an  infected  animal  ●  Could  also  be  human  to  human  through  pustules,  blood,  or  pus  ●  Became  a  pandemic  because  trading  ships  carried  this  disease  and  lack  of  proper  sanitation  ●  Occurs  naturally  in  areas  of  western  United  States,  circulates  among  rodents  and  other  animals   1918  Flu  Pandemic  |  Spanish  Flu   ●  H1N1  influenza  virus  ●  Lasting  from  January  1918  to  December  1920  (almost  3  years)  ●  Infected  500  million  people  (third  of  the  population  that  time  estimated  death  toll  of  17m  to  50m )  The  reason  why  it  was  so  deadly  is  because  of  the  lack  of  vaccines,  the  ongoing  war,  and  the  population  was  not  ready  to  handle  a  pandemic   
+NOTE   
+●  Despite  its  name,  the  first  case  of  the  Spanish  Flu  was  found  in  a  military  camp  in  the  US  during  WWI,  however,  they  did  not  report  the  outbreak  out  of  fear  of  causing  further  panic.  During  the  time,  Spain  was  a  neutral  country  and  was  the  first  to  report  the  pandemic,  which  leads  the  rest  of  the  world  to  believe  that  the  pandemic  started  in  Spain.   Asian  Flu  of  1957   ●  Influenza  A  subtype  H2N2  ●  Death  toll:  2M  worldwide  The  great  decrease  in  death  toll  was  due  to  vaccination  for  the  virus  The  subtype  also  did  not  target  immunocompromised  patients,  rather,  the  virus  commonly  targeted  younger  populations ,  who  have  better  immune  systems.  ■  40%  of  deaths  were  immunocompromised  or  elderly  patients  ●  First  identified  in  East  Asia   Hong  Kong  Flu  |  1968  Flu  Pandemic   ●  Influenza  A  (H3N2)  ●  Death  toll:  1M  worldwide  ●  Originated  in  China  in  July  1968  -  1969-70  ●  Still  in  circulation  today  and  is  considered  to  be  a  strain  of  seasonal  influenza   
+NOTE   
+●  Avian  flus  are  easily  turned  into  pandemics  because   the  migration  of  birds  helps  in  spreading  the  disease.  ●  Other  than  that,  viruses  constantly  mutate  and  gets  stronger,  despite  the  vaccines  in  place  
+HIV/AIDS  Pandemic  |  1920-Present   ●  Still  considered  zoonotic  because  of  its  origin  Source  of  HIV  infection  in  humans  is  believed  to  have  come  from  a  type  of  chimpanzee  in  Central  Africa  ●  75.7  million  people  have  already  been  infected  ●  Death  toll:  32  M  ●  Has  no  advertised  definitive  cure  but  there  are  Antiretroviral  drugs  Lowers  the  viral  load  to  the  point  where  it  is  undetected  So  effective  that  the  virus  cannot  be  detected  when  taking  the  drugs   
+NOTE   
+●  This  disease  blew  up  in  the  United  States  around  the  1980s.  ●  Due  to  heavy  misinformation,  the  original  name  for  HIV  in  the  United  States  was  Gay-related  Immune  Deficiency  (GRID)  because  they  thought  that  only  gay  people  could  contract  HIV.  ●  This  information  was  quickly  refuted  because  drug  injection  users  and  straight  males  contracted  HIV  years  after.   COVID-19   ●  Caused  by  Severe  Acute  Respiratory  Syndrome  Coronavirus  2  (SARS-COV-2)  ●  Possessions  of  anti-SARS-CoV  antibodies  in  Rhinolophus  affinis  bats  in  China  Bat  was  the  most  probable  natural  reservoir  or  the  primary  host  owing  to  the  origin  of  the  SARS-CoV-2.   Nipah  Virus   ●  Cases  of  Nipah  virus  infection  were  first  reported  in  1998 .  
+ 
+LEC  07,  PAGE  5  BSMT  1C  -  ANGO,  DIVINAGRACIA,  LUCERO,  PALATAN,  VILLACERAN,  VALLENTE 
+ 
+ 
+●  The  case  fatality  rate  is  estimated  at  40%  to  75%.  ●  Fruit  bats  of  the  Pteropodidae  family  are  the  natural  host  of  Nipah  virus.  ●  Nipah  virus  usually  transmits  from  infected  bats  and  other  animals  to  humans  and  can  also  be  transmitted  directly  between  people.  To  contract  the  virus,  there  needs  to  be  prolonged  direct  contact  or  eating  the  fruits  that  an  infected  bat  has  bitten.   
+G.  PRINCIPLES  OF  ZOONOSES  PREVENTION,  CONTROL,  AND  ERADICATION  
+ ●  Prevention  ○  Inhibiting  the  introduction  of  a  disease  agent  into  an  area,  a  specific  population  group,  or  an  individual  ●  Control  Efforts  ○  Steps  taken  to  reduce  disease  problem  to  a  tolerable  level  and  maintain  it  at  the  level  ●  Eradication  ○  Final  step  in  disease  control  program  ○  Consists  of  complete  elimination  of  disease  producing  agent  worldwide   ●  The  basic  principles  of  zoonoses  prevention,  control,  and  eradication  programs  are  focused  upon  breaking  the  chain  of  transmission  at  its  epidemiologically  weakest  link.  ●  Three  factors  involved:  ○  The  reservoir  ○  Transmission  from  the  reservoir  to  the  susceptible  host  ○  The  susceptible  hosts   
+Reservoir  Neutralization   ●  Ultimate  source  of  zoonotic  infection  is  the  infected  reservoir  host  Through  isolation  or  quarantine  ●  Manipulating  the  environment  Sanitation  and  Hygiene  ●  Three  methods  used  to  neutralize  the  reservoir  are:  ○  Removing  infected  individual  ○  Rendering  infected  individuals  or  individuals  as  “non  shedder”  or  not  shedding  the  virus  or  organism  to  the  environment  ○  Manipulating  the  environment   Reducing  Contact  Potential   ●  Three  methods  are  used…  ○  Isolation  and  treatment  of  cases  ○  Quarantine  of  possible  infected  individuals  ○  Population  control  ■  Contact  Tracing  ●  Remember!  Isolation :  to  keep  the  agent  in  Quarantine :  to  keep  the  agent  out   Increasing  Host  Resistance   ●  Increase  or  boost  immune  system  ●  Reduction  of  stress,  by  providing  improved  shelter  and  nutrition  is  not  only  an  end  but  also  a  means  to  reduce  the  ravages  of  epidemics  by  increasing  the  survival  ability  of  the  affected  population  Eating  healthy,  taking  vitamins,  exercise  and  getting  enough  sleep  helps  boost  the  immune  system,  thereby  increasing  the  resistance  of  the  host.   
+Chemoprophylaxis   ●  Administration  of   a  drug  or  medication  to  prevent  the  development  of  a  disease  or  infection  or  reduce  severity  To  decrease  viral  load  ●  Usually  post-exposure  treatment   Immunization   ●   Two  purposes  of  vaccines:  To  protect  susceptible  individuals  from  infection  or  disease  To  prevent  transmission  of  infectious  agents  by  creating  an  immune  population   
+H.  ACTIONS  IN  ZOONOSIS  CONTROL  
+ ●  The  following  operational  policies  have  been  recognized  as  suitable  and  effective  methods  of  zoonosis  control:   Surveillance   ●  Testing  of  accessible  animals  and  biological  materials   Proper  information  of  their  manifestations  ●  Slaughterhouse  surveys  ●  Isolation  and  typing  of  the  zoonotic  agent   Control  in  Animals   ●  Quarantine  ●  Test  and  Culling  ○  As  humanely  as  possible,  if  there  are  infected  animals,  they  need  to  be  slaughtered  ●  Test  and  Segregation  ○  Separate  infected  animals  for  a  period  of  time  
+ 
+LEC  07,  PAGE  6  BSMT  1C  -  ANGO,  DIVINAGRACIA,  LUCERO,  PALATAN,  VILLACERAN,  VALLENTE 
+ 
+ 
+●  Immunization  ○  For  pets,  poultry,  and  agriculture.  ●  Medical  Treatment  ●  Movement  Restrictions   ○  Prevents  animals  from  getting  harmful  diseases  outside  the  environment  ●  Population  Control   Prevention  in  Man   ●  Occupational  Health  Education  ●  Vaccination  ●  Post-exposure  Treatment  ●  Proper  food  hygiene   ●  It's  important  for  a  certain  area  to  not  overcrowd  because  its  makes  the  spread  of  disease  faster  and  hygiene  may  not  be  maintained   
+II.  VECTORS  
+ Vector   ●  Vectors  are  living  organisms  that  can  transmit  infectious  pathogens  between  humans,  or  from  animals  to  humans .  ●  Most  of  them  are  insects  or  blood-sucking  vectors   How  Do  They  Transmit  Diseases?   ●   Biological  Transmission  Bites,  Urine,   Saliva,  or  Feces  ●  Mechanical  Transmission  Physical  Contact  In  contact  with  their  body,  especially  feet     
+A.  VECTOR-BORNE  DISEASES  
+ ●  Vector-borne  diseases  are  human  illnesses  transmitted  by  vectors.   ●  Account  for  more  than  17%  of  all  infectious  diseases,  causing  more  than  700,000  deaths  annually.    
+B.  MAIN  VECTORS  AND  THE  DISEASE  THEY  TRANSMIT  
+ 
+Vectors  Disease  
+Aedes  sp.  
+Dengue  Fever,  Chikugunya,  Rift  Valley,  Yellow  Fever,  Zika  Virus  
+Anopheles  sp.  Malaria  (Parasitic  Infection)  
+Culex  sp.  
+Japanese  Encephalitis,  Lymphatic  Filariasis,  West  Nile  Fever  
+Sandflies  Leishmaniasis,  Sandfly  Fever  
+Ticks  
+Crimean-Congo  Hemorrhagic  Fever,  Lyme  Disease,  Relapsing  Fever,  Rickettsial  Disease,  Tick-borne  Encephalitis,  Tularemia  
+Triatomine  Bugs  
+Chagas  Disease  (American  Trypanosomiasis)  
+Tsetse  Flies  
+Sleeping  Sickness  (African  Trypanosimiasis)  
+Fleas  Plague,  Rickettsiosis  
+Black  Flies  Onchocerciasis  (River  Blindness)  
+Aquatic  Snails  Schistosomiasis  (Bilharziasis)  
+Table  1.  Main  Vectors  and  the  Disease  they  Transmit  
+ 
+NOTE   
+●  Aedes  sp.,  Anopheles  sp.,  and  Culex  sp.  are  mosquito  species  ●  Dengue  is  present  in  132  countries  and  is  very  endemic  in  the  Philippines  ●  When  you  are  bitten  by  an  Ixodes  ticks  (specific  tick  for  Lyme  disease),  a  common  manifestation  is  a  bulls-eye  rash  (Erythyma  migrans).  ●  Triatomine  (Kissing)  Bugs  usually  bite  when  you  are  sleeping  and  bite  in  your  lip  area  or  eyes,  and  then  they  defecate  or  urinate  and  will  cause  the  Chagas  disease.  ●  Chagas  disease  can  also  be  transmitted  through  blood  transfusion,  and  vertical  transmission  ●  Schistoma  spp.  lives  in  freshwater  snails  and  when  it  is  in  its  infective  stage,  it  gets  out  of  the  snail.   
+C.  CONTROL  OF  VECTORS  
+ 1.  Hygiene  and  Control  of  Environment  2.  Destruction  of  Pathogenic  Material  a.  Ex.  Incineration  and  Autoclaving  3.  Disinfection   4.  Food  Hygiene    
+D.  METHODS  OF  VECTOR  CONTROL  
+ Habitat  Control   ●  Removing  or  reducing  the  number  of  places  where  vectors  can  breed  helps  to  limit  populations  from  growing  excessively.  ●  Ex.  Removing  stagnant  water  to  prevent  Dengue  and  Malaria   
+ 
+LEC  07,  PAGE  7  BSMT  1C  -  ANGO,  DIVINAGRACIA,  LUCERO,  PALATAN,  VILLACERAN,  VALLENTE 
+ 
+ 
+Biological  Control   ●  The  use  of  predators,  bacterial  toxins,  or  botanical  compounds  can  help  control  vector  populations.  Copepods  are  released  in  bodies  of  water  that  have  mosquito  eggs  There  are  larvivorous  fishes  that  eat  mosquito  eggs  ■  Used  to  combat  Malaria   Chemical  Control   ●  Insecticides,  larvicides  (Baygon),  and  repellents  are  used  to  control  pests  and  can  be  used  to  control  vectors.  Effective  is  vectors  are  adults  ●  By  doing  chemical  control  we:  Avoid  the  risk  of  biting  and  contamination.  Limit  the  growth  of  populations  at  an  early  stage.  Dealing  with  adult  populations.    
+E.  VECTOR  CONTROL  MEASURES  
+ 1.  Insecticide  Treatment  2.  House  spraying  3.  On-stream  seeding  a.  Copepods  and  Larvivorous  Fishes  4.  On  stream  clearing  a.  Vegetations  near  streams  are  cleaned   
+F.  ENHANCED  4S  STRATEGY  IN  DENGUE  PREVENTION  
+ ●  Because  of  the  Dengue  outbreak  in  the  Philippines,  the  DOH  enhanced  the  4S  Strategy:  1.  Search  and  Destroy  
+2.  Seek  Early  Consultation  3.  Self-Protection  Measures  4.  Say  yes  to  fogging  only  during  outbreaks  a.  Could  be  harmful  to  the  environment  and  humans,  and  may  cause  pollution   
+III.  AIR,  NOISE,  RADIATION  POLLUTION  
+ Pollution   ●  When  substances  or  energy  (e.g.,  light  and  heat)  are  introduced  to  the  natural  environment  in  large  amounts/concentrations  that  can  cause  harm  to  humans,  animals,  and  plants  ●  Most  often  composed  of  synthetic,  or  human-made  substances  (e.g.,  plastic)  ○  Carbon  dioxide  (CO2),  sediment,  and  nutrients  can  become  pollutants  if  they  exceed  a  particular  level  ●  Any  substance  could  cause  pollution  if  they  are  in  excess  and  because  of  this  excess,  they  can  harm  your  humans,  animals,  or  plants.   Pollutants   ●  A  waste  material  that  pollutes  air,  water,  or  soil  ●  Divides  into  2  aspects:  natural  and  human-driven  ○  Natural:   volcanic  eruptions  ○  Human-driven:  Improper  waste  disposal   
+A.  AIR  POLLUTION  
+ 
+●
+ 
+“Contamination  of  the  indoor  or  outdoor  environment  by  any  chemical,  physical,  or  
+biological  agent  that  modifies  the  natural  characteristics  of  the  atmosphere.”  (WHO)   PRIMARY  SOURCES  OF  AIR  POLLUTION  
+●  Household  air  pollution  ●  Ambient  (outdoor)  air  pollution  ●  Electricity  in  health-care  facilities  ○  Hospitals  are  required  to  have  generators  and  they  are  fueled  by  diesel  that  has  harmful  damage  to  the  air  ●  Sand  and  dust  storms  ●  Automobiles   ●  Industries  ●  Tobacco  smoke  ●  Pesticide  spraying
+ 
+AIR  POLLUTANTS   
+●
+ 
+More  than  100  air  pollutants  have  been  identified:  ○  Carbon  monoxide  (CO)  ○  Carbon  dioxide  (CO2)  ○  Hydrogen  sulfide  (H2S)  ○  Sulfur  dioxide  (SO2)  ○  Sulfur  trioxide  (SO3)  ○  Nitrogen  oxides  (NOx)  ■  shorthand  for  nitric  oxide  (NO)  and  nitrogen  dioxide  (NO2)  ○  Fluorine  compounds  ○  Organic  compounds  
+EFFECTS  OF  AIR  POLLUTION   Immediate  Effects   ●  Damages  the  respiratory  system  and  results  in  acute  bronchitis  
+ 
+LEC  07,  PAGE  8  BSMT  1C  -  ANGO,  DIVINAGRACIA,  LUCERO,  PALATAN,  VILLACERAN,  VALLENTE 
+ 
+ 
+●  May  result  in  immediate  death  by  suffocation  if  there  is  intense  air  pollution   Delayed  Effects   ●  Smog  can  damage  the  lungs  and  irritate  the  eyes  and  throat  ○  Smog  is  usually  found  in  cities  and  happens  when  there  is  an  accumulation  of  pollution.  ○  When  it  is  very  thick,  it  can  trap  chemicals  ●  Benzene  (in  gasoline),  a  carcinogen  (according  to  the  EPA),  can  cause  eye,  skin,  and  lung  irritation  ●  Chronic  bronchitis,  Lung  cancer,  Bronchial  asthma,  and  Respiratory  allergies  
+Socioeconomic  Effects   ●  Damages  the  buildings  (due  to  the  corrosive  nature)  ●  Kills  plant  and  animal  life  (either  by  fucking  up  the  soil  or  lessening  the  oxygen)  ●  Reduces  visibility  in  urban  towns  compared  to  provinces   PREVENTION  AND  CONTROL  OF  AIR  POLLUTION   ●  The  WHO  has  recommended  the  following  procedures  for  the  prevention  and  control  of  air  pollution   Containment   ●  Preventing  the  escape  of  toxic  substances  into  the  outdoor  (ambient)  air  ●  Usually  engineering  methods  ○  Air  ducts  and  vents   
+Replacement   ●  Replacing  the  process  that  causes  air  pollution  with  a  process  that  doesn’t  cause  air  pollution  ●  Replacement  of  coal  as  a  fuel  source  which  reduces  the  smoke  produces   Dilution   ●  Reduction  of  the  air  pollutant  concentration  by  mixing  it  with  sufficient  air  to  render  its  presence  unobjectionable  ○  Ex:  Placing  greenery  in  under-construction  buildings  to  lessen  their  effects  on  the  atmosphere  ●  Only  valid  if  it  is  within  the  self-cleaning  capacity  of  the  environment   Legislation    ●  Should  be  hand  in  hand  with  implementation  ●  RA  8749  -   The  Philippine  Clean  Air  Act  ●  Comprehensive  Air  Quality  Management  Policy  and  Program   International  Action   ●  WHO  established  an  international  network  of  laboratories  that  monitor  and  study  air  pollution   DISINFECTION  OF  AIR   Mechanical  Ventilation   
+●
+ 
+To  control  indoor  air  quality,  excess  humidity,  odors,  and  contaminants
+ 
+ 
+Ultraviolet  Radiation   
+●
+ 
+Germicidal  UV  light  can  destroy  or  deactivate  the  genetic  material  of  the  microorganisms  when  exposed  to  air  surfaces   Chemical  Mists   
+●
+ 
+Air  disinfectants  (usually  chemical  substances)  disinfect  microorganisms  suspended  in  the  air
+ 
+ Dust  Control   ●  To  reduce  surface  and  air  movement  of  dust    
+B.  NOISE  POLLUTION  
+ ●  High  sound  levels  may  lead  to  adverse  effects  in  humans  or  other  living  organisms   ●  Sound  levels  less  than  70dB  are  not  damaging  to  living  organisms,  no  matter  how  long  or  consistent  the  exposure  is  (WHO)  ●  More  than  8  hours  of  constant  noise  that  is  beyond  85  dB  may  be  hazardous   NOISE  LEVELS  
+Figure  5.  Noise  Levels  
+ 
+LEC  07,  PAGE  9  BSMT  1C  -  ANGO,  DIVINAGRACIA,  LUCERO,  PALATAN,  VILLACERAN,  VALLENTE 
+ 
+
+ 
+●  Isn’t  only  from  one  source;  noise  accumulates   SOURCES  OF  NOISE  POLLUTION   ●  Domestic  noises  from  radios,  TV  sets,  and  transistors  ●  Acute  noise  levels  near  railway  junctions,  airports,  traffic  roundabouts,  and  bus  terminals  ●  Festivities ,  particularly  at  night,  with  loudspeakers  in  full  volume  and  pressure  horns  (i.e.,  recreational  use)   HEALTH  EFFECTS  OF  NOISE  POLLUTION   ●  Hypertension   ○  Increased  stress  could  lead  to  constricted  vessels  ●  Hearing  Loss   ●  Sleep  Disturbances  ●  Child  Development  ●  Psychological  Dysfunctions  and  Noise  Annoyance   ●  It  has  been  proven  that  we  are  irritable  and  anxious  when  it's  noisy  and  it's  not  a  suitable  environment  for  a  child  to  grow  up  in   CONTROL  OF  NOISE   ●  Careful  planning  of  cities  ●  Control  of  vehicles  ●  Industry  and  railways  outside  the  city  ●  Protection  of  the  exposed  person  ●  Legislation  ●  Education    
+C.  RADIATION  POLLUTION  
+ Radiation   ●  Energy  that  comes  from  a  source  &  travels  through  some  material  or  through  space  ●  Part  of  a  man’s  environment   Radioactive  Pollution   ●  Increase  in  natural  radiation  levels  due  to  human  activities  ●  About  20%  of  the  radiation  we  are  exposed  to  is  because  of  human  activities   SOURCES  OF  RADIATION   Natural    ●  Cosmic  Rays  ●  Environmental  ○  Terrestrial,  Atmosphere   Man-Made   ●  Medical  and  Dental  ●  Occupational  exposure  ●  Nuclear  ●  Miscellaneous  ○  TV  sets.  Radioactive  dial  watches.  Isotope-tagged  products,  and  Luminous  markers   TYPES  OF  RADIATION   ●  Ionizing  radiation  is  the  type  of  radiation  that  penetrates  the  skin   could  stay  there  ●  Ionizing  Radiation  can  be  divided  into  2  types:  ○  Electromagnetic  Radiations  ■  X-rays  and  gamma  rays  
+○  Corpuscular  Radiations  ■  Alpha  and  beta  particles   DETERMINANTS  OF  BIOLOGICAL  EFFECTS   ●  Rate  of  Absorption  ○  Amount  of  radiation  entering  the  body  ●  Area  exposed  ●  Variations  in  species  and  individual  sensitivity  ○  Cockroaches  are  10x  more  resistant  to  radiation  ●  Variations  in  cell  sensitivity   APPEARANCE  OF  BIOLOGICAL  EFFECTS   Acute  Effects   ●  Effects  seen  immediately  after  large  doses  of  radiation  are  delivered  over  a  short  time  ○  Ex:  Radiation  sicknesses  and  burns   Delayed  Effects   ●  Appears  months  or  years  after  radiation  exposure  ○  Ex:  Cataract  formation  and  cancer  induction   BIOLOGICAL  EFFECTS   Acute   Localized  Effects   ●  Most  common  effects  are  skin-related  ○  200  rad:  mild  erythema  ○  300  rad:   temporary  hair  loss  ○  600  rad:  more  severe  erythema  ○  700  rad:   permanent  hair  loss  ○  1000  rad:  desquamation  in  tissue  and  necrosis  
+ 
+LEC  07,  PAGE  10  BSMT  1C  -  ANGO,  DIVINAGRACIA,  LUCERO,  PALATAN,  VILLACERAN,  VALLENTE 
+ 
+ 
+ Long-Term  Effects   ●  Experience  delayed  effects  due  to  acute  high-dose  exposures  or  from  chronic  long-term  exposures  over  many  years  ○  Carcinogenic  ○  Embryological  ○  Cataractogenic  ○  Life  span  shortening   Genetic  Effects   ●  Inheritable  mutations  in  DNA  ●  Seen  in  mammals  (*animals),  yet  no  convincing  evidence  in  humans  ●  Difficulty  in  measuring  because  of  the  ff.:  ○  Subtle  effects  ○  Long  life  spans  ○  Uncertainties  in  the  background  rate  ○  Confounding  factors  ●  77,000  births  from  Japanese  bomb  survivors  show  no  substantial  evidence  of  genetic  effects   HOW  CAN  RADIATION  EXPOSURE  BE  REDUCED?   ●  Less  time  spent  near  the  source  ●  Greater  distance  from  the  source  ●  Behind  shielding  from  the  source  ○  Workers  must  wear  a  film  badge  or  dosimeter  ■  Film  badge:  a  device  that  measures  and  records  exposure  to  ionizing  radiation  
+ Figure  6.  Film  Badge   
+IV.  REFERENCES  
+ ●  Cockburn  WC,  Delon  PJ,  Ferreira  W.  Origin  and  progress  of  the  1968-69  Hong  Kong  influenza  epidemic.  Bull  Work  Health  Organ.  1969;41(3):345-8.  PMID:  5309437;  PMCID:  PMC2427756.  ●  Ray  AS,  Bhattacharya  K.  An  Overview  on  the  Zoonotic  Aspects  of  COVID-19.  ●  Proc  Natl  Acad  Sci  India  Sect  B  Biol  Sci.  2023  Apr  26:1-5.  Doi:  10.1007/s40011-023-0144508.  Epub  ahead  of  print.  PMID:  37360152;  PMCID;  PMC10132798  ●  WHO  Archives  ●  Centers  for  Disease  Control  and  Prevention   
+ 
+LEC  07,  PAGE  11  BSMT  1C  -  ANGO,  DIVINAGRACIA,  LUCERO,  PALATAN,  VILLACERAN,  VALLENTE 
+ 
+

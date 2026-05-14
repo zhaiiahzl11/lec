@@ -1,0 +1,207 @@
+ 
+08  LECTURE  
+HEALTH  CARE  
+MT  1,  Second  Semester  LECTURE  08  -  Mr.  Andrae   D.  Reyes,  RMT  DTA 
+ 
+DISASTER  CONTROL  MANAGEMENT  
+ 
+TOPIC  OVERVIEW  
+I.  Topic  1  (Disaster)  A.  Types  of  hazard  and  disaster  II.  Vulnerability,  Risk,  and  Capacity  A.  Vulnerability  B.  Risk  C.  Capacity  III.  Disaster  in  the  Philippine  settings  IV.  Disaster  management  A.  Disaster  Risk  Management  B.  16  Aims  of  Disaster  Management  C.  Disaster  Management   Cycle  V.  Phases  of  Disaster  Management  A.  Disaster  Preparedness  B.  Incident  Command  System  (ICS)  C.  Disaster  Impact  D.  Disaster  Response  E.  Disaster  Mitigation  
+ 
+LEARNING  OBJECTIVES  
+I.  Learn  terms  that  define  and  constitute  a  disaster  II.   Identify  the  different  types  of  hazards  and  disasters  III.  Understand  how  vulnerable  the  Philippine  archipelago  is  by  knowing  disasters  in  the  Philippine  setting  IV.  Discuss  how  disasters  are  managed  through  implemented  plans  and  measures    
+I.  TOPIC  1  
+ ●  Although  a  disaster  is  considered  an  emergency ,  an  emergency  alone  does  not  necessarily  mean  that  it  has  to  be  a  disaster .   DISASTER   ●  Depending  on  the  characteristics  of  the  disaster  itself,  when  we  talk  about  a  disaster,  this  is  an  emergency  that  goes  beyond  the  ability  of  the  community  to  respond  as  well  as  recover  from  the  incident  using  their  own  resources.  ○  Frequently  requires  assistance  from  outside  the  immediate  community,  both  to  manage  resulting  issues  and  to  recover  completely .  ●  Any  event  that  causes  a  level  of  destruction,  death,  or  injury  that  affects  the  abilities  of  the  community  to  respond  to  the  incident  using  available  resources  ●  It  affects  the  ability  of  the  community  to  respond  to  the  incidents  using  available  resources.  ●  A  disaster  is  usually  a  cause  and  effect  ○  Causing  mass  casualties,  multiple  casualties   ■  Mass  casualty :  100  or  more  ■  Multiple  casualty :  more  than  2  but  less  than  100  ○  Affecting :  
+■  Direct  victims  (including:  displaced  persons,  refugees),  ●  Displaced  persons:  are  does  individual  who  have  to  evacuate  their  home,  school,  or  even  business  as  a  result  of  a  disaster  ●  Refuges :  These  are  a  group  of  people  who  fled  their  home  or  country  as  a  result  of  famine,  drought,  natural  disaster,  war,  or  even  a  form  of  civil  unrest.  ○  Indirect  victims  (such  as  the  relatives  of  the  direct  victims)  can  cause  psychological  effects)  ●  WORLD  HEALTH  ORGANIZATION  (WHO)  ○  Disaster  is  "Any  occurrence  that  causes  damage,  ecological  disruption,  loss  of  human  life,  deterioration  of  health  and  health  services  on  a  scale  sufficient  to  warrant  an  extraordinary  response  from  outside  the  affected  community  or  area."  ●  A  disaster  resulted  from  the  combination  of  hazard ,  vulnerability ,  and  insufficient  
+ 
+LEC  08,  PAGE  1  BSMT  1D  -  CHIU,  CANETE,  SCHMIDT,  TAN,  GONZALES  
+ 
+
+ 
+capacity  or  measures  to  reduce  the  potential  chances  of  risk.  ●  Formula :  
+BREAKDOWN   ●  HAZARD  +  VULNERABILITY  =  RISK   .  ●  CAPACITY  TO  COPE  ○  Insufficient  capacit y:  If  an  individual  has  a  
+↓  lower  capacity  to  cope,  therefore  they  are  unable  to  manage  the  disaster.   
+  EMERGENCY   ●  An  emergency  is  defined  as  an  individual  who  can  manage  their  own  situation  using  their  own  resources.  ●  An  emergency  is  any  event  endangering  the  life  or  health  of  a  significant  number  of  people  and  demanding  immediate  action.  Situations  may  arise  due  to:  ○  natural  ○  man-made  ○  technological  ○  societal  hazards  HAZARD  ●  Any  phenomenon  that  has  the  potential  to  cause  disruption  or  damage  to  people,  their  properties,  their  services,  and  their  environment.  ●  A  hazard  can  be  man-made,  but  most  hazards  are  perceived  as  natural  ●  Disaster  happens  when  a  hazard  impacts  the  vulnerable  population  and  causes  damage,  casualties,  and  disruption.  ●  Without  a  hazard  affecting  the  vulnerable  population,  these  does  not  constitute  a  disaster  
+●  Differentiate  hazards  from  disasters:  ○  A  hazard  is  an  event ,  and  the  disaster  itself  is  the  consequence .   ○  A  hazard  is  perceived  as  an  event  that  threatens  life  and  property ,  while  a  disaster  is  the  realization  of  these  hazards.  ○  Hazards  may  be  inevitable .  ○  Disaster  can  be  prevented .  Disaster  may  result  from  natural,  biological,  technological,  or  societal  hazards.   ●  Natural  Hazards  ○  Physical  force,  such  as  typhoon,  flood,  landslide,  earthquake,  and  volcanic  activity.  ●  Biological  Hazards  ○  a  process  or  phenomenon  of  organic  origin  (infectious  agents)  or  conveyed  by  biological  vectors,  including  exposure  to  pathogenic  microorganisms,  toxins,  and  bioactive  substances.  ●  Technological  Hazards  ○  arise  from  technological  or  industrial  conditions,  including  accidents,  dangerous  procedures,  and  infrastructure  failures.  ●  Societal  Hazards  ○  result  from  the  interaction  of  varying  political,  social,  or  economic  factors,  which  may  have  a  negative  impact  on  the  community   ■  Wars,  conflicts,  nuclear  wars  ●  Complex  Hazards  (multiple  hazards  in  one)  ○  Natech  Hazards  ■  Natural-technological  disaster  ■  This  type  of  disaster  constitutes  more  than  2  and  is  affected  by  or  caused  by  1  natural  hazard  
+and  1  technological  hazard.  ■  Natural  Hazard  Triggered  ●  Earthquake  (Natural)  It  causes  the  faulty  wiring  to  spark  and  lead  to  fire  (technological)   
+A.  TYPES  OF  HAZARDS  AND  DISASTERS  
+ 
+CLASSIFICATION  OF  NATURAL  AND  TECHNOLOGICAL  DISASTERS  
+Disaster  Group  Disaster  Sub-group  
+Disaster  Main  Type  
+Disaster  Sub  -  type  
+                            NATURAL  
+     Geophysical  
+Earthquake  Ground  movement,  Tsunami  
+Mass  movement  (dry)  
+Rock  Fall,  Landslide  
+Volcanic  Activity  
+Ash  Fall,  Lahar,  Pyroclastic  flow,  Lava  flow  
+     Meteorological  
+  Storm  
+Extra  Tropical  Storm,  Tropical  Storm,  Convective  storm  
+ Extreme  Temperature  
+Cold  wave,  Heat  wave,  Severe  winter  condition  
+Fog   
+   Hydrological  
+   Flood  
+Costal  Flood,  Riverine  Flood,  Flash  Flood,  Ice  Jam  Flood  
+ 
+LEC  05,  PAGE  2  BSMT  1D  -  CHIU,  CANETE,  SCHMIDT,  TAN,  GONZALES 
+ 
+
+ 
+Landslide  Avalanche  (snow,  debris,  mudflow,  rockfall)  
+Wave  action  Rogue  Wave,  Seiche  
+  Climatological  
+Drought   
+Glacial  Lake  Outburst  
+ 
+Wildfire  Forest  Fire,  Land  Fire:  Bush,  Pasture   
+    Biological  
+Epidemic  Virus,  Bacterial,  Parasitic,  Fungal,  Prion  Disease  
+Insect  Infestation  
+Grasshopper,  Locust  
+Animal  accident  
+ 
+   Extraterrestrial  
+Impact  Airburst  
+Space  Weather  
+Energetic  particles,  Geomagnetic  storm,  shockwave  
+       Technological  
+    Industrial  accident  
+ Chemical  spill,  Collapse,  Explosion,  Fire,  Oil  spill,  Poisoning,  Radiation,  Gas  leak  
+Transport  accident  
+ Air,  Road,  Rail,  Water  
+Miscellaneous  accident  
+ Collapse,  Explosion  Fire  
+Sociological   Stampede,  armed  conflicts,  terrorist  activities,  Riots  
+Table  1.  List  of  Natural  and  Technological  Disasters  Table  1  Discussion   ●  Geophysical  ○  Geo  =  Land  ○  Physical  =  Movement  ●  Meteorological  ○  Involves  the  atmosphere   ●  Hydrological  ○  Involves  water  ●  Climatological  ○  It  does  touch  the  atmosphere  part,  but  rather  more  on  changes  in  temperature  of  a  certain  geographic  location  that  promotes/leads  to  a  disaster.  ●  Extraterrestrial  ○  This  involves  disasters  that  do  happen  outside  the  planet  (space-bound)  ○  Ex :  Impact  -  Airburst  
+Sudden  impact  Earthquakes,  Tropical  storms,  Tsunamis,  Volcanic  eruptions,  etc.   
+Slow  onset  Drought,  Famine,  Pest  infestation,  Deforestation,  etc.  
+Epidemic  DIsease  
+Water-borne,  Food-borne,  Vector-borne,  etc.   
+Table  2 .  Types  of  Duration  and  Their  Examples  Table  2   Discussion   ●  Sudden  impact  ○   The  immediate  effect  cannot  be  predicted  ●  slow  onset  ○  Delayed  effect,  you  cannot  really  tell  unless  you’ve  noticed  some  differences.  
+●  Epidemic  diseases  ○  This  can  be  a  sudden  or  slow  onset  ○  There  are  epidemics  that  are  gradually  rising  or  slower.  ○  Caused  by  a  biological  agent  
+II.  VULNERABILITY,  RISK,  AND  CAPACITY  
+ 
+A.  VULNERABILITY  
+●  The  extent  to  which  a  community  or  structure,  services,  or  geographic  area  wherein  they  are  more  likely  to  be  damaged  or  disrupted  by  the  impact  of  a  particular  hazard  on  account  of  their  nature,  destruction,  as  well  as  proximity  to  hazardous  terrains  or  disaster-prone  areas.  ●  conditions  or  set  of  conditions  that  reduce  the  people’s  ability  to  prepare  for,  withstand,  or  respond  to  a  hazard  ●  The  propensity  of  things  to  be  damaged  by  a  hazard  ●  You  can’t  call  a  disaster  if  it's  just  a  hazard  alone;  it  needs  to  have  a  vulnerable  population  to  be  called  a  disaster.  ●  CATEGORIZED  INTO:  ○  Physical  -  who  or  what  may  be  destroyed  (Ex,  unstable  infrastructures,  disabled  people)  ○  Social  -  inability  of  the  affected  population  to  endure  the  unfavorable  impacts  of  a  hazard  ■  Includes  social  aspects  of  literacy,  good  governance,  social  justice,  conventional  values,  customs,  and  ideological  beliefs  ●  Literacy  -  illiterate  people  have  a  hard  time  comprehending  ●  Media  illiteracy  -  prone  to  believe  
+ 
+LEC  05,  PAGE  3  BSMT  1D  -  CHIU,  CANETE,  SCHMIDT,  TAN,  GONZALES 
+ 
+ 
+AI  spliced  videos  or  fake  news  ●  Governance  -  the  better  the  governance,  the  lower  the  social  vulnerability  ●  Ideological  beliefs  -  an  example  is  how  you  can  transfuse  blood  to  a  patient  who  is  a  Jehovah's  Witness;  basically,  respect  the  patient’s  beliefs  ○  Economical  -  businesses  and  assets  ○  Environmental  -  includes  resource  degradation,  aftermaths  of  famine  or  droughts  (which  lessen  agriculture),  and  death  of  livestocks  ■  The  more  our  resources  lessen,  the  more  vulnerable  the  population  will  be     
+ Figure  1      
+Figure  1  Discussion   ●  Low  Capacity  to  cope  +  High  Exposure  to  hazard  ○  You  will  not  have  enough  resources  to  manage  the  effects  of  the  hazard  ●  High  Exposure  to  Hazard  +  High  Capacity  to  cope  ○  Since  you  have  the  means  to  manage  your  situation,  it  makes  your  vulnerability  is  low  ●  Low  Exposure  to  Hazard  +  Low  Capacity  to  cope  ○  Your  vulnerability  is  low  ●  Low  Exposure  to  hazard  +  high  Capacity  to  Cope  ○  Your  vulnerability  becomes  very  low  since  you  have  the  means  or  resources  to  aid  yourself.  
+B.  RISK  
+●  Is  a  situation  involving  exposure  to  danger  or  the  possibility  that  something  unpleasant  or  unwelcome  will  happen  ●  A  probability  that  a  community’s  structure  or  geographic  area  is  to  be  damaged  or  disrupted  by  the  impact  of  a  particular  hazard,  on  account  of  its  nature,  construction,  and  proximity  to  a  hazardous  area  
+ 
+Table  3.  Progression  of  Vulnerability   Table  3  Explanation   ●  Root  causes  are  the  factors  involved.   ●  Dynamic  pressures  are  created  by  the  root  causes  ●  Unsafe  conditions  or  events  that  may  take  place  ●  Risk  =  hazard  +  vulnerability  ●  In  the  context  of  disaster  management,  risk  is  viewed  as  the  product  of  potentially  damaging  events  and  vulnerable  conditions  of  a  society  or  elements  exposed.    Why  are  disasters  increasing?   1.  Increase  in  population  -  increases  the  amount  of  people  vulnerable.  2.  Climate  Change  -  the  more  increase  in  temperate,  the  more  are  the  chances  that  the  impacts  of  disasters  worsen.  3.  Increased  vulnerability  due  to  :  a.  Demographic  changes  -  (older/younger  are  more  vulnerable)  b.  Increased  concentration  of  assets  -  more  assets  =  higher  possibility  of  destruction  c.  Environmental  degradation  -  the  more  our  environment  worsens,  the  higher  the  impact  of  the  disaster  will  be  4.  Poverty  -  if  you  don't  have  or  have  less  capacity  to  cope  the  impact  of  the  disaster  will  be  increased  on  those  people  5.  Rapid  urbanization  and  unplanned  development  ●  Those  situations  or  areas  that  were  improperly  planned  may  lead  to  a  disaster  awaiting  ●  Rapid  urbanization  -  concentrated  population  means  there  will  be  more  affected  by  the  disaster.  
+ 
+LEC  05,  PAGE  4  BSMT  1D  -  CHIU,  CANETE,  SCHMIDT,  TAN,  GONZALES 
+ 
+
+ 
+C.  CAPACITY  
+●  Resources,  means,  and  strengths  which  exist  in  a  household  or  a  community   which  enables  them  to  cope  with,  withstand,  prepare  form  and  prevent,  mitigate,  or  quickly  recover  from  a  disaster  ●  Positive  conditions  or  abilities  which  increase  a  community’s  ability  to  deal  with  hazards  ●  TWO  TYPES :  ○  Physical  Capacity   ■  Man  power   ■  Strong  Infrastructure  ○  Socio-economic  Capacity  ■  Connections  and  privileges  -  the  more  connecting  or  privileges  you  have,  the  more  you  will  be  able  to  recover  quickly  from  a  disaster.  
+III.   DISASTER  IN  THE  PHILIPPINE  SETTING  
+●  The  Philippines  is  considered  as  one  of  the  most  vulnerable  countries  in  the  world  considering  its  numerous  hazards  present  in  the  country.  ●  Lies  in  the  Pacific  Ring  of  Fire;  200  volcanoes,  22  are  considered  active  and  destructive  (5  are  closely  monitored).  ●  The  country  lies  along  the  Typhoon  Belt  -  average  of  24  typhoons/year.  
+Characteristics  
+●  Frequency  ○  How  often  does  a  disaster  occurs.   ●  Predictability  ○  Ability  to  tell  when  and  if  a  disaster  event  will  occur.  ●  Preventability  ○  Actions  can  be  taken  in  order  to  avoid  a  disaster.  ●  Imminence  
+○  Immediate,  speed  of  onset  of  an  impending  disaster,  and  related  to  the  extent  of  forewarning  possible  and  the  anticipated  duration  of  the  incident.  ○  Ex.  How  sudden,  gradual,  and  hazardous  the  disaster  is.   ●  Scope  and  Number  of  Casualties  ○  The  range  of  the  effects  of  the  disaster.  ○  The  bigger  the  scope,  the  wider  the  range  of  the  disaster  occuring.  The  number  of  casualties  will  also  increase.  ●  Intensity  ○  Level  of  destruction  and  devastation  of  the  disaster.  ○  How  intense  the  disaster  is.  
+EARTHQUAKE  PRONE  AREA  
+Region  1  -  Ilocos  Norte  -  Ilocos  Sur  -  Pangasinan  -  La  Union  
+Region  6  -  Antique  -  West  Panay  -  Negros  Occidental  -  Iloilo  
+Region  12  -  South  Cotabato  
+Region  2  -  Batanes  -  Cagayan  
+Region  7  -  Cebu  -  Bohol  -  Negros  Oriental  
+ARMM  -  Maguindanao  -  Sultan  Kudarat  
+Region  3  -  Bataan  -  Bulacan  -  Zambales  -  Nueva  Ecija  
+Region  8  -  Eastern  Samar  -  Leyte  -  Northern  Samar  
+CARAGA  -  Surigao  Del  Sur  -  Surigao  Del  Norte  
+Region  4  -  Mindoro  
+Region  9  -  Zamboanga  
+CAR  -  Benguet  
+-  Marinduque  Provinces  -  Baguio  City  
+Region  5  -  Albay  -  Catanduanes  
+Region  10  -  Bukidnon  
+ 
+IV.  DISASTER  MANAGEMENT  
+●  Is  a  term  used  for  a  continuous  and  integrated  process  of  planning,  organizing,  coordinating,  and  implementing  measures  which  are  necessary  or  expedient  for:  ○  Prevention  of  danger  or  threat  of  any  disaster  ○  Reduction  of  the  risk  of  any  disaster  or  its  severity,  or  its  consequences  ○  Capacity-building  ○  Preparedness  to  deal  with  any  disaster  ○  Prompt  response  to  any  threatening  disaster  situation  or  disaster  ○  Assessing  the  severity  or  magnitude  of  effects  of  any  disaster  ○  Evacuation,  rescue,  and  relief  ○  Rehabilitation  and  reconstruction   -  Disaster  Management  is  the  “ umbrella  term”.  This  constitutes  a  broad  range  of  activities.  -  It  encompasses  a  lot,  it  doesn't  just  encompass  disaster  risk  management,  it  also  involves  mitigation,  preparation,  recovery,  response  and  even  rehabilitation  and  reconstruction  
+A.  DISASTER  RISK  MANAGEMENT   
+A  broad  range  of  activities  designed  to:  ●  Prevent  loss  of  lives,  minimize  human  suffering,  inform  the  public  and  authorities  of  risk,  minimize  property  damage  and  economic  loss,  speed  up  the  recovery  process  ○  Focuses  on  activities   
+ 
+LEC  05,  PAGE  5  BSMT  1D  -  CHIU,  CANETE,  SCHMIDT,  TAN,  GONZALES 
+ 
+ 
+○  Part  of  disaster  management  ○  Actions  that  can  be  done  to  manage  the  risk  of  a  disaster   
+B.  16  AIMS  OF  DISASTER  MANAGEMENT  
+●  To  reduce  the  impact  of  disasters  and  quantum  of  loss.  ●  To  create  an  environment  where  individuals  and  communities  work  together  in  groups  and  are  able  to  achieve  selected  aims  effectively  and  efficiently.  ●  To  develop  important  strategies  to  reduce  and  control  the  occurrence  of  disasters.  ●  To  train  individuals  and  communities  to  remain  prepared  for  sudden  disasters.  ●  To  trigger  the  affected  regions  and  the  community's  emergency  resources  for  quick  response.  ●  To  coordinate  and  communicate  for  proper  management  of  resources,  namely,  man,  material  and  economic  resources  available  for  the  purpose  of  disaster  response  and  recovery.  ●  To  foster  team  spirit,  where  persons  rise  above  themselves  to  help  the  victims  of  disasters  in  whatever  way  they  can.  ●  To  organize  recovery  and  rescue  mechanisms.  ●  To  generate  resources  necessary  for  rescue,  recovery  and  post-recovery  work.  ●  To  elicit  action  for  management  of  disaster  in  a  time-bound  manner.  ●  To  facilitate  the  non-governmental  and  governmental  machinery  to  work  in  tandem  for  disaster  management.  ●  To  commit  resources  for  disaster  mitigation,  preparedness,  rescue  and  recovery.  ●  To  draw  the  attention  of  national  and  international  agencies  for  disaster  relief.  ●  To  formulate  policies  for  curbing  the  menace  called  disaster  before  its  onset.  ●  To  develop  a  systematic  approach  to  the  management  of  disasters.   
+●  To  foster  local  resilience  to  disasters  by  adopting  a  consensus-building  approach  in  consultation  with  the  local  community.  
+C.  DISASTER  MANAGEMENT  CYCLE  
+                                            ●  Preparation,  Response,  Recovery  and  Mitigation  are  all  aspects  necessary  for  disaster  management .  ○  Management  of  disasters  is  a  prerequisite,  which  incorporates  the  steps  of  all  these  four.  ○  The  aim  of  the  disaster  management  cycle  is  to  minimize  the  risk  of  disasters  and  to  handle  them  when  they  do  occur  in  an  effective  manner  to  limit  and  reduce  the  effect  of  loss.  1.  Response  ○  These  are  the  measures  required  in  search  of  survivors  as  well  as  to  meet  the  basic  needs  for  shelter,  water,  food,  and  akso  health  care.  ○  This  includes  actions  taken  to  save  lives,   prevent  damage  to  property  and  to  preserve  the  environment  during  emergencies  or  disasters.  ○  This  is  where  implementation  of  actions  plans  take  place  ○  Whatever  is  the  action  plan  being  prepared  during  preparation,  it  must  be  implemented  during   disaster  response .  
+2.  Recovery  ○  Process  undertaken  by  a  disaster  affected  community  to  fully  restore  itself  to  pre-disaster  level  of  functioning   ○  Three  terms  that  are  common  in  disaster  management:  -  Relief  ○  These  are  actions  taken  immediately  following  the  impact  of  a  disaster(e.g.  relief  goods)  ○  Focus  on  Basic  needs  are  given  such  as  food,  water,  clothing,  shelter.  -  Rehabilitation   ○  Actions  that  assist  the  community  to  restore  to  a  sense  of  normality  after  a  disaster.  ○  More  focused  on  the  people.  -  Reconstruction   ○  These  are  actions  taken  in  the  aftermath  of  a  disaster  to  assist  victims  to  prepare  their  dwellings,  reestablish  essential  services  and  revive  key  economic  and  social  activities.  ○  More  focused  on  structures.  3.  Mitigation   ○  Measures  taken  prior  to  an  impact  of  a  disaster  to  minimize  its  effects.  ○  This  refers  to  the  structural  and  non  structural  measures  ○  This  includes  any  activities  that  reduce  either  the  chance  of  a  hazard  place  or  a  hazard  turning  into  a  disaster.  ○  Also  includes  building  codes,  zoning  and  land  use  management,  regulation  and  safety  codes  and  preventive  healthcare  and  public  education.  ○  Risk  reduction  or  anticipatory  measures  that  seek  to  avoid  future  risks  as  a  result  of  a  disaster.  
+ 
+LEC  05,  PAGE  6  BSMT  1D  -  CHIU,  CANETE,  SCHMIDT,  TAN,  GONZALES 
+ 
+
+ 
+4.  Preparation  ○  Measures  taken  in  anticipation  of  a  disaster  to  ensure  that  appropriate  and  effective  actions  are  taken  in  the  aftermath.  ○  Plans  that  are  Made  to  saves  lives  or  properties  and  help  the  response  and  rescue  service  operations  ○  This  phase  covers  implementation,  operations,  early  warnings,  capacity  buildings  ○  Also  includes  measures  taken  to  avert  a  disaster  from  occurring(if  possible).  
+V.  PHASES  OF  DISASTER  MANAGEMENT  
+ 
+A.  DISASTER  PREPAREDNESS  
+●  Is  an  ongoing,  multi-sectoral  activity  ○  Multi-sectoral  activity  -  Involves  not  just  one,  but  multiple  levels  of  society:  ➢  Local  (barangay,  city)  ➢  Regional  ➢  National  ➢  International  ●  Integral  part  of  the  national  system  responsible  for  developing  plans  and  programs  for:  1.  Prevention  2.  Mitigation  3.  Response  4.  Rehabilitation  5.  Reconstruction  ■  Basically  the  entire  disaster  cycle  starts  here  ●  It  is  responsible  for  the  coordination  of  sectors  to  carry  out:  ○  Evaluation  of  the  risk  ○  Adopt  standards  and  regulations  ○  Organize  communication  and  response  mechanism  
+○  Ensure  all  resources  are  ready  and  easily  mobilized  ○  Develop  public  education  programs  ○  Coordinate  information  with  news  media  ○  Disaster  simulation  exercises  ■  Fire  drills   ■  Earthquake  drills   ●  Medical  Preparedness  &  Mass  Casualty  Management  ○  Development  and  capacity  building  of  medical  team  for  Trauma  &  psycho-social  care,  mass  casualty  management  and  Triage  ○  Determine  the  casualty  handling  capacity  of  all  hospitals  ○  Formulate  appropriate  treatment  procedures  ○  Involvement  of  private  hospitals  ○  Mark  would  be  in  care  centers  that  can  function  as  a  medical  unit  ○  Identify  structural  integrity  and  approach  routes  
+B.  INCIDENT  COMMAND  SYSTEM  (ICS)  
+ ●  A  hierarchical  chain  of  command  is  used  in  disaster  situations  ●  Structure:  1.  Command  Staff  ●  In  an  incident  command  organization,  which   typically  includes:  
+a.  Incident  Commander (topmost)  -  overall  leader  ○  responsible  for  all  incident  activities ,  including  the  development  of  strategies  and  tactics,  and  the  ordering  and  release  of  resources  ○  has  overall  authority  and  responsibility  for  conducting  incident  operations  and  is  responsible  for  the  management  of  all  incident  operations  at  the  incident  site.   ■  can  be  president  (national  view),  mayor  (city  level),  barangay  captain  (barangay  level)  b.  Public  Information  Officer –   responsible  for  interfacing  with  the  public  and  media  and/or  with  other  agencies  with  incident-related  information  requirements  c.  Safety  Officer –   monitors  incident  operations  and  advises  the  IC/UC  on  all  matters  relating  to  operational  safety ,  including  the  health  and  safety  of  emergency  responder  personnel  d.  Liaison  Officer –  is  Incident  Command’s  point  of  contact  for  DRRMC/other  government  agency  representatives,  NGOs,  and  the  private  sector,  to  provide  input  on  their  agency’s  policies,  resource  availability,  and  other  incident-related  matters  2.  General  Staff  ●  a  group  of  incident  management  personnel  organized  according  to  
+ 
+LEC  05,  PAGE  7  BSMT  1D  -  CHIU,  CANETE,  SCHMIDT,  TAN,  GONZALES 
+ 
+
+ 
+function  and  reporting  to  the  Incident  Commander  ●  normally  consists  of  the:   a.  Operations  Section   ○  responsible  for  all  tactical  activities  focused  on  reducing  the  immediate  hazard ,  saving  lives  and  property ,  establishing  situational  control ,  and  restoring  normal  operations  ○  OS  is  composed  of:  ➔  Branches  -  may  be  functional,  geographic,  or  both ,  depending  on  the  circumstances  of  the  incident  ➔  Divisions  and  Groups  are  established  when  the  number  of  resources  exceeds  the  manageable  span  of  control  of  Incident  Command  and  the  Operations  Section  Chief.  ◆  Divisions  -  established  to  10  divide  an  incident  into  physical  or  geographical  areas  of  operation.  ◆  Groups  -  established  to  divide  the  incident  into  functional  areas  of  operation  ➔  Resources  -  Single  Resources:  Individual  personnel  or  equipment  and  
+any  associated  operators  -  Task  Forces:  Any  combination  of  resources  assembled  in  support  of  a  specific  mission  or  operational  need  -  Strike  Teams:   A  set  number  of  resources  of  the  same  kind  and  type  that  have  an  established  minimum  number  of  personnel  b.  Planning  Section   ○  collects,  evaluates,  and  disseminates  incident  situation  information  and  intelligence  to  the  IC/UC  and  incident  management  personnel  ○  Within  the  Planning  Section,  the  following  primary  Units  fulfill  functional  requirements:   ➔  Resources  Unit:  records  the  status  of  resources  committed  to  the  incident  ➔  Situation  Unit:  responsible  for  the  collection,  organization,  and  analysis  of  incident  status  information,  and  for  the  analysis  of  
+the  situation  as  it  progresses  ➔  Demobilization  Unit:  ensures  orderly,  safe,  and  efficient  demobilization  of  incident  resources  ➔  Documentation  Unit:  collects,  records,  and  safeguards  all  documents  relevant  to  the  incident  ➔  Technical  Specialists:   Personnel  with  special  skills  that  can  be  used  anywhere  within  the  ICS  organization  c.  Logistics  Section  d.  Finance/Administrative  Section   ●  An  Intelligence/InvestigationChief  may  be  established,  if  required,  to  meet  incident  management  needs.  
+Please  check  this  memo  for  further  details:  https://share.google/4IraDkat5bYpzbG4o 
+ 
+C.  DISASTER  IMPACT  
+●  Consequences  of  Disaster  ○  Health:  ■  Physical  -  entanglement,  injuries,  disabilities,  coma,  death  ●  trapped  in  debris  
+ 
+LEC  05,  PAGE  8  BSMT  1D  -  CHIU,  CANETE,  SCHMIDT,  TAN,  GONZALES 
+ 
+ 
+■  Psychological  -  cognitive,  behavioral,  social  ○  Types  of  Damages:  ■  Structural  damage  -  variable  extent  ■  Ecological  -  changes  in  the  ecosystem  and  damage  to  nature  ■  Economical  -  financial  losses   
+D.  DISASTER  RESPONSE  
+●  Immediate  reaction  to  disaster  as  the  disaster  is  anticipated,  or  soon  after  it  begins,  in  order  to  assess  the  needs ,  r educe  the  suffering ,  limit  the  spread  and  consequences  of  the  disaster ,  and  open  up  a  way  to  rehabilitation.  ●  It  is  done  by:  ○  Mass  evacuation  ■  organized  movement  to  safe  areas  ■  hectic  evacuation  =  more  casualties  ○  Search  and  rescue  ■  locate  and  save  victims   ○  Emergency  medical  services  ■  must  always  be  accessible  in  terms  of  response  to  an  immediate  disaster.  ■  ambulances,  field  hospitals,  first  aid   ○  Securing  food  and  water  ■  Basic  needs  like  food,  water,  clothing,  shelter  ○  Maintenance  of  Law  &  Order  ■  prevent  looting,  violence,  and  chaos  ●  Disaster  Impact  &  Response  are  involved  in  the:  ○  Search,  Rescue,  and  First  Aid  ■  Those  individuals  involved  in  search  and  rescue  
+operations  are  mostly  trained  in  first  aid.  ○  Field  care  ■  Part  of  the  job  of  a  safety  officer  is  to  assess  whether  or  not  the  scene  is  safe  for  the  search  and  rescue  to  go  to  a  certain  location  ○  Triage  ■  Prioritization  of  the  victim  ○  Tagging  ■  the  act  of  labeling  them  ○  Identification  ■  Assess  who  should  be  attended  to  first  ●  Disaster  Management:  Triage  ○  Categorizes  victims  into  four  categories  depending  on  the  urgency  of  their  needs  for  evacuation,  as  well  as  the  treatment  or  care  they  need  
+○  
+Maximize
+ 
+survival
+ 
+when
+ 
+resources
+ are  limited.   ○  In  a  disaster  or  mass  casualty  situation,  different  systems  for  triage  have  been  developed.   ○  One  system  is  known  as  START  (Simple  Triage  and  Rapid  Treatment)  ■  It  categorized  the  victims  into   4  categories  depending  on  the  urgency  and  the  care  needed  for  the  victim.  ○  If  necessary,  START  can  be  implemented  by  persons  without  a  high  level  of  training.  
+●  TRIAGE  COLOR  TAGS  
+ ●  Red  =  Immediate  ○  Those  who  cannot  survive  without  immediate  treatment,  but  who  have  the  chance  of  survival  ○  Those  who  are  injured  and  can  be  helped  by  immediate  transportation  ●  Yellow  =  Delayed  ○  Stable  for  the  moment ,  and  they  are  not  in  immediate  danger  of  death  ○  Individuals  who  are  injured  with  less  severe  injuries  whose  transport  can  be  delayed  ●  Green  =  Minor  ○  “Walking  wounded”  who  will  need  medical  care  at  some  point,  after  more  critical  injuries  have  been  treated  ○  Those  with  minor  injuries  not  requiring  urgent  care  ●  White  ○  Those  with  minor  injuries  ●  Black  =  Deceased/Beyond  help  ○  Deceased  and  for  those  whose  injuries  are  so  extensive  that  they  
+ 
+LEC  05,  PAGE  9  BSMT  1D  -  CHIU,  CANETE,  SCHMIDT,  TAN,  GONZALES 
+ 
+
+ 
+will  not  be  able  to  survive,  given  the  care  that  is  available  ○  Not  everyone  can  be  saved  ○  Priority  =  greatest  number  of  survivors  ○  Other  systems,  not  just  START,  can  be  used  in  mass  casualty  situations  ○  Tags  can  change  depending  on  the  condition:  ○  Green  →  Yellow  →  Red  (remove  previous  tags  as  condition  worsens)   ●  Medical  and  Public  Health  Response  ○  Pre-hospital  emergency  services  ■  Linkage  to  the  government.  incident  command  system  ■  External  medical  services  &  extrication  workers   ■  Search  and  Rescue  Teams  ○  Assessment  of  immediate  health  needs  ○  Identification  of  medical  &  health  resources  ○  Temporary  field  treatment  ■  Followed  by  a  prompt  and  proper  treatment  to  save  lives  
+ 
+E.  DISASTER  RECOVERY  
+●  Long-term  process  after  a  disaster   ●  Includes  the  “4  Rs”:  Relief,  Rehabilitation,  Reconstruction,  and  Repatriation   ●  Repatriation  ○  After  the  emergency  is  over,  displaced  people  return  to  their  place  of  origin  ●  Rehabilitation  ○  Restoration  of  Basic  Social  Functions  ○  Providing  Temporary  Shelters  ○  Stress  Debriefing  for  Responders  and  Victims   ○  Economic  Rehabilitation  ○  Psycho-social  Rehabilitation  ○  Scientific  Damage  Assessment  ●  Elements  of  Recovery  1.  Community  Recovery  2.  Infrastructure  Recovery  3.  Economic  Recovery  4.  Environmental  Recovery  
+F.  DISASTER  MITIGATION  
+●  The  measures  taken  prior  to  the  impact  of  the  disaster  to  minimize  its  effects  (sometimes  referred  to  as  structural  and  non-structural  measures ).   ○  Any  activity  that  reduces  either  the  chance  of  a  hazard  taking  place  or  a  hazard  turning  into  a  disaster   ●  Includes:  1.  Building  codes   2.  Zoning  and  land  use  management   3.  Regulation  and  safety  codes   4.  Preventive  health  care  Public  education  
+ 
+REFERENCES  
+●  Famorca,  Z.,  Nies,  M.,  McEwen,  M.  (2013).  "Nursing  Care  of  the  Community”.  ●  Maurer,  F.,  Smith,  C.  (2013).  "Community  and  Public  •Health  Nursing  Practice".  5th  Ed.   ●  Nies,  M.,  McEwen,  M.  (2020).  "Community  and  Püblic  Health  Nursing".  2nd  Ed.   ●  Silva,  J.  (2016).  "Never  forget  the  Famine  in  Negros".  Bantayog  Ng  Mga  Bayani.  
+ 
+LEC  05,  PAGE  10  BSMT  1D  -  CHIU,  CANETE,  SCHMIDT,  TAN,  GONZALES 
+ 
+
