@@ -23,6 +23,9 @@ class DatabaseSeeder extends Seeder
             Lecture7Seeder::class,
             Lecture8Seeder::class,
             Lecture9Seeder::class,
+            HistologyLecture1Seeder::class,
+            HistologyLecture2Seeder::class,
+            HistologyLecture3Seeder::class,
         ]);
     }
 }
