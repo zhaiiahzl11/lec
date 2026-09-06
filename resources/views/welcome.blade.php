@@ -21,7 +21,12 @@
 </div>
 
 <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
-    @forelse($lectures as $lecture)
+    @php
+        $currentLectures = $lectures->where('is_previous', false);
+        $previousLectures = $lectures->where('is_previous', true);
+    @endphp
+
+    @forelse($currentLectures as $lecture)
     <div class="group bg-white dark:bg-white/5 dark:backdrop-blur-md rounded-3xl shadow-sm border border-slate-200 dark:border-white/10 p-8 flex flex-col justify-between hover:shadow-xl dark:hover:shadow-2xl hover:shadow-emerald-500/10 dark:hover:shadow-emerald-500/10 hover:border-emerald-500/50 transition-all duration-300 transform hover:-translate-y-2 relative overflow-hidden" :class="{ 'opacity-50 pointer-events-none': !userName }">
         <div class="absolute top-0 right-0 w-32 h-32 bg-emerald-50 dark:bg-white/5 rounded-bl-full opacity-50 transition-transform group-hover:scale-110"></div>
         <div class="relative z-10">
@@ -48,5 +53,33 @@
     </div>
     @endforelse
 </div>
+
+@if($previousLectures->count() > 0)
+<div class="mt-20">
+    <div class="text-center mb-8">
+        <h2 class="text-3xl font-extrabold text-slate-900 dark:text-white tracking-tight leading-tight transition-colors duration-300">Previous Lectures</h2>
+        <p class="mt-2 text-slate-500 dark:text-slate-400 font-medium">Optional quizzes if you still want to review them.</p>
+    </div>
+    
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-6 opacity-75 hover:opacity-100 transition-opacity duration-300">
+        @foreach($previousLectures as $lecture)
+        <div class="group bg-slate-50 dark:bg-slate-800/50 rounded-2xl shadow-sm border border-slate-200 dark:border-slate-700 p-6 flex flex-col justify-between hover:shadow-md transition-all duration-300 relative overflow-hidden" :class="{ 'pointer-events-none': !userName }">
+            <div class="relative z-10">
+                <div class="inline-flex items-center justify-center px-2 py-1 rounded bg-slate-200 dark:bg-slate-700 text-slate-600 dark:text-slate-300 text-[10px] font-bold uppercase tracking-wider mb-3">
+                    {{ $lecture->questions_count }} Questions
+                </div>
+                <h3 class="text-xl font-bold text-slate-700 dark:text-slate-200 mb-2 leading-tight">{{ $lecture->title }}</h3>
+                <p class="text-sm text-slate-500 dark:text-slate-400 mb-6 line-clamp-2">{{ $lecture->description }}</p>
+            </div>
+            <div class="relative z-10 mt-auto">
+                <a href="{{ route('quiz.show', $lecture) }}" class="inline-flex justify-center items-center w-full px-4 py-2 border border-slate-300 dark:border-slate-600 text-sm font-bold rounded-xl text-slate-700 dark:text-slate-200 bg-white dark:bg-slate-800 hover:bg-slate-50 dark:hover:bg-slate-700 transition-colors">
+                    Review Quiz
+                </a>
+            </div>
+        </div>
+        @endforeach
+    </div>
+</div>
+@endif
 </div>
 @endsection
