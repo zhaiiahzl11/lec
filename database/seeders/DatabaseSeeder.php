@@ -11,12 +11,16 @@ class DatabaseSeeder extends Seeder
      */
     public function run(): void
     {
-        // Skip if all 15 lectures already exist (avoid 30+ min reseed on deploy)
+        // Always ensure Biostatistics seeders run to keep 50+ questions per lecture updated
+        $this->call([
+            BiostatisticsLecture1Seeder::class,
+            BiostatisticsLecture2Seeder::class,
+            BiostatisticsLecture3Seeder::class,
+        ]);
+
         if (\App\Models\Lecture::count() >= 15) {
             return;
         }
-
-        \App\Models\Lecture::query()->delete();
 
         $this->call([
             Lecture1Seeder::class,
@@ -31,9 +35,6 @@ class DatabaseSeeder extends Seeder
             HistologyLecture1Seeder::class,
             HistologyLecture2Seeder::class,
             HistologyLecture3Seeder::class,
-            BiostatisticsLecture1Seeder::class,
-            BiostatisticsLecture2Seeder::class,
-            BiostatisticsLecture3Seeder::class,
         ]);
     }
 }
