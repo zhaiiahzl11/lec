@@ -31,9 +31,9 @@
             $previousLectures = $lectures->where('is_previous', true)->groupBy('category');
 
             $categoryColors = [
-                'Biostatistics' => ['bg' => 'bg-violet-100 dark:bg-violet-500/20', 'text' => 'text-violet-700 dark:text-violet-300', 'border' => 'border-violet-300 dark:border-violet-500/30', 'icon' => '📊'],
-                'Histology' => ['bg' => 'bg-rose-100 dark:bg-rose-500/20', 'text' => 'text-rose-700 dark:text-rose-300', 'border' => 'border-rose-300 dark:border-rose-500/30', 'icon' => '🔬'],
-                'Public Health' => ['bg' => 'bg-sky-100 dark:bg-sky-500/20', 'text' => 'text-sky-700 dark:text-sky-300', 'border' => 'border-sky-300 dark:border-sky-500/30', 'icon' => '🏥'],
+                'Biostatistics' => ['bg' => 'bg-violet-100 dark:bg-violet-500/20', 'text' => 'text-violet-700 dark:text-violet-300', 'border' => 'border-violet-300 dark:border-violet-500/30'],
+                'Histology' => ['bg' => 'bg-rose-100 dark:bg-rose-500/20', 'text' => 'text-rose-700 dark:text-rose-300', 'border' => 'border-rose-300 dark:border-rose-500/30'],
+                'Public Health' => ['bg' => 'bg-sky-100 dark:bg-sky-500/20', 'text' => 'text-sky-700 dark:text-sky-300', 'border' => 'border-sky-300 dark:border-sky-500/30'],
             ];
         @endphp
 
@@ -41,8 +41,8 @@
         @forelse($currentLectures as $category => $categoryLectures)
             <div class="mb-10">
                 <div class="flex items-center gap-3 mb-6">
-                    @php $colors = $categoryColors[$category] ?? ['bg' => 'bg-slate-100 dark:bg-slate-700', 'text' => 'text-slate-700 dark:text-slate-300', 'border' => 'border-slate-300 dark:border-slate-600', 'icon' => '📚']; @endphp
-                    <span class="text-2xl">{{ $colors['icon'] }}</span>
+                    @php $colors = $categoryColors[$category] ?? ['bg' => 'bg-slate-100 dark:bg-slate-700', 'text' => 'text-slate-700 dark:text-slate-300', 'border' => 'border-slate-300 dark:border-slate-600']; @endphp
+
                     <div
                         class="inline-flex items-center px-4 py-1.5 rounded-full {{ $colors['bg'] }} {{ $colors['text'] }} border {{ $colors['border'] }} text-sm font-bold uppercase tracking-wider">
                         {{ $category ?: 'Uncategorized' }}
@@ -111,8 +111,8 @@
                 @foreach($previousLectures as $category => $categoryLectures)
                     <div class="mb-10">
                         <div class="flex items-center gap-3 mb-4">
-                            @php $colors = $categoryColors[$category] ?? ['bg' => 'bg-slate-100 dark:bg-slate-700', 'text' => 'text-slate-700 dark:text-slate-300', 'border' => 'border-slate-300 dark:border-slate-600', 'icon' => '📚']; @endphp
-                            <span class="text-xl">{{ $colors['icon'] }}</span>
+                            @php $colors = $categoryColors[$category] ?? ['bg' => 'bg-slate-100 dark:bg-slate-700', 'text' => 'text-slate-700 dark:text-slate-300', 'border' => 'border-slate-300 dark:border-slate-600']; @endphp
+
                             <div
                                 class="inline-flex items-center px-3 py-1 rounded-full {{ $colors['bg'] }} {{ $colors['text'] }} border {{ $colors['border'] }} text-xs font-bold uppercase tracking-wider">
                                 {{ $category ?: 'Uncategorized' }}
