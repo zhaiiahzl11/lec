@@ -15,9 +15,12 @@ class Lecture4Seeder extends Seeder
         if (!$lecture) {
             $lecture = Lecture::create([
                 'title' => 'Lecture 4 - Communicable Disease Control',
-                'description' => 'Understanding the chain of infection, communicable disease models, and levels of prevention and eradication.'
+                'description' => 'Understanding the chain of infection, communicable disease models, and levels of prevention and eradication.',
+                'is_previous' => true,
+                'category' => 'Public Health'
             ]);
         } else {
+            $lecture->update(['is_previous' => true, 'category' => 'Public Health']);
             $lecture->questions()->delete();
         }
 

@@ -15,9 +15,12 @@ class Lecture8Seeder extends Seeder
         if (!$lecture) {
             $lecture = Lecture::create([
                 'title' => 'Lecture 8 - Disaster Control Management',
-                'description' => 'Understanding disaster risks, vulnerability, incident command systems, and emergency response.'
+                'description' => 'Understanding disaster risks, vulnerability, incident command systems, and emergency response.',
+                'is_previous' => true,
+                'category' => 'Public Health'
             ]);
         } else {
+            $lecture->update(['is_previous' => true, 'category' => 'Public Health']);
             $lecture->questions()->delete();
         }
 

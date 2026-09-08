@@ -15,9 +15,12 @@ class Lecture2Seeder extends Seeder
         if (!$lecture) {
             $lecture = Lecture::create([
                 'title' => 'Lecture 2 - Human Behavior and Community Health Education',
-                'description' => 'Exploring the psychological and social factors that influence health behaviors, and strategies for community health education.'
+                'description' => 'Exploring the psychological and social factors that influence health behaviors, and strategies for community health education.',
+                'is_previous' => true,
+                'category' => 'Public Health'
             ]);
         } else {
+            $lecture->update(['is_previous' => true, 'category' => 'Public Health']);
             $lecture->questions()->delete();
         }
 

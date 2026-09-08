@@ -15,9 +15,12 @@ class Lecture1Seeder extends Seeder
         if (!$lecture) {
             $lecture = Lecture::create([
                 'title' => 'Lecture 1 - Foundations of Public Health',
-                'description' => 'Comprehensive introduction to the history, evolution, and core concepts of public health and community organizing.'
+                'description' => 'Comprehensive introduction to the history, evolution, and core concepts of public health and community organizing.',
+                'is_previous' => true,
+                'category' => 'Public Health'
             ]);
         } else {
+            $lecture->update(['is_previous' => true, 'category' => 'Public Health']);
             $lecture->questions()->delete();
         }
 

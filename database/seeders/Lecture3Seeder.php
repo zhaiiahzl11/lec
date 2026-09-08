@@ -15,9 +15,12 @@ class Lecture3Seeder extends Seeder
         if (!$lecture) {
             $lecture = Lecture::create([
                 'title' => 'Lecture 3 - First Aid and Personal Wellness',
-                'description' => 'A guide to understanding stress, maintaining personal wellness, recognizing shock, and performing vital first aid such as CPR.'
+                'description' => 'A guide to understanding stress, maintaining personal wellness, recognizing shock, and performing vital first aid such as CPR.',
+                'is_previous' => true,
+                'category' => 'Public Health'
             ]);
         } else {
+            $lecture->update(['is_previous' => true, 'category' => 'Public Health']);
             $lecture->questions()->delete();
         }
 

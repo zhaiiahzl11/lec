@@ -16,10 +16,11 @@ class HistologyLecture3Seeder extends Seeder
             $lecture = Lecture::create([
                 'title' => 'Lecture 3 - Connective Tissue',
                 'description' => 'Human Histology: Connective Tissues, Fibers, Extracellular Matrix, and Connective Tissue Cells.',
-                'is_previous' => false
+                'is_previous' => true,
+                'category' => 'Histology'
             ]);
         } else {
-            $lecture->update(['is_previous' => false]);
+            $lecture->update(['is_previous' => true, 'category' => 'Histology']);
             $lecture->questions()->delete();
         }
 
@@ -56,7 +57,32 @@ class HistologyLecture3Seeder extends Seeder
             ['Which large ovoid cells are filled with granules containing histamine and heparin to mediate allergic responses?', 'medium', [['Mast Cells', true], ['Plasma Cells', false], ['Adipocytes', false], ['Lymphocytes', false]]],
             // Adipose Tissue
             ['Which type of adipose tissue is most common, making up 10% of body weight, and features unilocular adipocytes?', 'easy', [['White Adipose Tissue', true], ['Brown Adipose Tissue', false], ['Beige Adipose Tissue', false], ['Yellow Adipose Tissue', false]]],
-            ['Which type of adipose tissue is abundant in newborns for heat production through non-shivering thermogenesis?', 'medium', [['Brown Adipose Tissue', true], ['White Adipose Tissue', false], ['Beige Adipose Tissue', false], ['Yellow Adipose Tissue', false]]]
+            ['Which type of adipose tissue is abundant in newborns for heat production through non-shivering thermogenesis?', 'medium', [['Brown Adipose Tissue', true], ['White Adipose Tissue', false], ['Beige Adipose Tissue', false], ['Yellow Adipose Tissue', false]]],
+            // Additional Connective Tissue Questions
+            ['Connective tissue in the head region is uniquely derived from which source?', 'hard', [['Ectoderm via neural crest cells', true], ['Mesoderm', false], ['Endoderm', false], ['Hematopoietic stem cells', false]]],
+            ['Which embryonic tissue is characterized by cells that extend processes to form a 3D cellular network with gap junctions?', 'medium', [['Mesenchyme', true], ['Mucous connective tissue', false], ['Areolar tissue', false], ['Dense regular connective tissue', false]]],
+            ['In tendons, what is the specialized ECM that surrounds the entire tendon and separates it from loose connective tissue?', 'hard', [['Epitendineum', true], ['Endotendineum', false], ['Perineurium', false], ['Epimysium', false]]],
+            ['Which layer in a tendon divides it into fascicles and contains small blood vessels and nerves?', 'hard', [['Endotendineum', true], ['Epitendineum', false], ['Submucosa', false], ['Aponeurosis', false]]],
+            ['Which type of connective tissue features fibers in regular, orthogonal arrays (oriented at 90 degrees to neighboring layers), making it important for structures like the cornea?', 'hard', [['Aponeuroses', true], ['Tendons', false], ['Ligaments', false], ['Dense irregular connective tissue', false]]],
+            ['Which type of collagen is the main component of hyaline and elastic cartilage, providing resistance to pressure?', 'medium', [['Type II Collagen', true], ['Type I Collagen', false], ['Type III Collagen', false], ['Type IV Collagen', false]]],
+            ['Which collagen type forms a support and filtration barrier and is found in all basal laminae of epithelial cells?', 'hard', [['Type IV Collagen', true], ['Type I Collagen', false], ['Type II Collagen', false], ['Type VII Collagen', false]]],
+            ['Which collagen type functions to secure the basal lamina to underlying connective tissue fibers?', 'hard', [['Type VII Collagen', true], ['Type III Collagen', false], ['Type I Collagen', false], ['Type IV Collagen', false]]],
+            ['How do reticular fibers typically appear when stained with silver stains (like Gomori or Wilder)?', 'medium', [['Black (argyrophilic)', true], ['Magenta/Purple', false], ['Blue', false], ['Green', false]]],
+            ['What special stain is required to selectively stain elastic fibers?', 'medium', [['Orcein or resorcin-fuchsin', true], ['Periodic acid-Schiff (PAS)', false], ['Masson trichrome', false], ['Alcian blue', false]]],
+            ['Which Type II collagenopathy is characterized by short stature, joint mobility issues, and blindness?', 'hard', [['Kniest dysplasia', true], ['Osteogenesis Imperfecta', false], ['Ehlers-Danlos syndrome', false], ['Alport syndrome', false]]],
+            ['Which Type VII collagenopathy leads to severe skin blistering and scarring?', 'hard', [['Kindler syndrome', true], ['Alport syndrome', false], ['Kniest dysplasia', false], ['Ehlers-Danlos syndrome', false]]],
+            ['What is the most important proteoglycan found in cartilage that provides a cushioning effect?', 'medium', [['Aggrecan', true], ['Decorin', false], ['Syndecon', false], ['Heparan sulfate', false]]],
+            ['Which multiadhesive glycoprotein is primarily found in basement membranes and anchors epithelial cells?', 'hard', [['Laminin', true], ['Fibronectin', false], ['Tenascin', false], ['Decorin', false]]],
+            ['Which multiadhesive glycoprotein is particularly important in embryonic development and wound healing?', 'hard', [['Tenascin', true], ['Laminin', false], ['Fibronectin', false], ['Syndecon', false]]],
+            ['Which wandering cells are the smallest and migrate to connective tissue for immune responses?', 'easy', [['Lymphocytes', true], ['Neutrophils', false], ['Monocytes', false], ['Eosinophils', false]]],
+            ['Which cells wrap around capillaries and venules, acting as mesenchymal stem cells for new blood vessel development?', 'hard', [['Pericytes', true], ['Plasma cells', false], ['Mast cells', false], ['Fibroblasts', false]]],
+            ['Which type of adipose tissue has a flattened nucleus displaced to the periphery, creating a "signet-ring" appearance?', 'easy', [['White Adipose Tissue', true], ['Brown Adipose Tissue', false], ['Beige Adipose Tissue', false], ['Reticular Adipose Tissue', false]]],
+            ['Beige adipose tissue is an intermediate form that is also known by what other name?', 'medium', [['Brite (brown-in-white) adipose tissue', true], ['Yellow adipose tissue', false], ['Mucous adipose tissue', false], ['Mesenchymal adipose tissue', false]]],
+            ['Which protein in brown adipose tissue mitochondria uncouples oxidative phosphorylation to release energy as heat rather than ATP?', 'hard', [['UCP-1 (thermogenin)', true], ['Leptin', false], ['Collagen type I', false], ['Aggrecan', false]]],
+            ['What hormone is secreted by white adipose tissue to help regulate appetite and homeostasis?', 'medium', [['Leptin', true], ['Insulin', false], ['Histamine', false], ['Heparin', false]]],
+            ['Monocytes from the blood can migrate into connective tissues and differentiate into which type of cell?', 'medium', [['Macrophages', true], ['Plasma cells', false], ['Mast cells', false], ['Fibroblasts', false]]],
+            ['Which type of connective tissue fibers are thinner than collagen, arrange in a branching pattern to form a 3D network, and allow tissues to respond to stretch and distension?', 'easy', [['Elastic fibers', true], ['Reticular fibers', false], ['Collagen Type I fibers', false], ['Muscle fibers', false]]],
+            ['White adipose tissue can transform into brown-like (beige) tissue in response to which of the following?', 'medium', [['Cold exposure, exercise, or hormones (norepinephrine)', true], ['Heat exposure and sedentary lifestyle', false], ['High carbohydrate diets', false], ['Bacterial infections', false]]]
         ];
 
         foreach ($questions as $qData) {
@@ -66,7 +92,9 @@ class HistologyLecture3Seeder extends Seeder
                 'difficulty' => $qData[1]
             ]);
 
-            foreach ($qData[2] as $choiceData) {
+            $choices = $qData[2];
+            shuffle($choices);
+            foreach ($choices as $choiceData) {
                 Choice::create([
                     'question_id' => $question->id,
                     'choice_text' => $choiceData[0],
@@ -76,3 +104,4 @@ class HistologyLecture3Seeder extends Seeder
         }
     }
 }
+

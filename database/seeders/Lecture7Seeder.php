@@ -15,9 +15,12 @@ class Lecture7Seeder extends Seeder
         if (!$lecture) {
             $lecture = Lecture::create([
                 'title' => 'Lecture 7 - Vector and Zoonosis, Control of Air, Radiation, and Noise Pollution',
-                'description' => 'Detailed look at zoonotic diseases, vectors, and environmental pollution including air, noise, and radiation.'
+                'description' => 'Detailed look at zoonotic diseases, vectors, and environmental pollution including air, noise, and radiation.',
+                'is_previous' => true,
+                'category' => 'Public Health'
             ]);
         } else {
+            $lecture->update(['is_previous' => true, 'category' => 'Public Health']);
             $lecture->questions()->delete();
         }
 

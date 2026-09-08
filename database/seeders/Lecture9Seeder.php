@@ -15,9 +15,12 @@ class Lecture9Seeder extends Seeder
         if (!$lecture) {
             $lecture = Lecture::create([
                 'title' => 'Lecture 9 - Health Resources and Services, International and National Health Services',
-                'description' => 'Exploration of global and local healthcare structures, international health organizations, and the Philippine healthcare delivery system.'
+                'description' => 'Exploration of global and local healthcare structures, international health organizations, and the Philippine healthcare delivery system.',
+                'is_previous' => true,
+                'category' => 'Public Health'
             ]);
         } else {
+            $lecture->update(['is_previous' => true, 'category' => 'Public Health']);
             $lecture->questions()->delete();
         }
 

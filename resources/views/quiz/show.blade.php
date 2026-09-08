@@ -249,10 +249,19 @@
                         const orderMap = new Map();
                         state.questionsOrder.forEach((id, index) => { orderMap.set(id, index); });
                         
-                        if (state.questionsOrder.length < loadedQuestions.length) {
-                            const retryQuestions = loadedQuestions.filter(q => orderMap.has(q.id));
-                            retryQuestions.sort((a, b) => orderMap.get(a.id) - orderMap.get(b.id));
-                            this.questions = retryQuestions;
+                        const matchingQuestions = loadedQuestions.filter(q => orderMap.has(q.id));
+                        
+                        if (matchingQuestions.length === 0) {
+                            // Database was likely re-seeded. Reset the state.
+                            loadedQuestions.sort(() => Math.random() - 0.5);
+                            loadedQuestions.forEach(q => q.choices.sort(() => Math.random() - 0.5));
+                            
+                            state = {};
+                            state.questionsOrder = loadedQuestions.map(q => q.id);
+                            this.questions = [...loadedQuestions];
+                        } else if (state.questionsOrder.length < loadedQuestions.length) {
+                            matchingQuestions.sort((a, b) => orderMap.get(a.id) - orderMap.get(b.id));
+                            this.questions = matchingQuestions;
                         } else {
                             loadedQuestions.sort((a, b) => orderMap.get(a.id) - orderMap.get(b.id));
                             this.questions = [...loadedQuestions];

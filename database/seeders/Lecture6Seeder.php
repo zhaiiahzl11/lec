@@ -15,9 +15,12 @@ class Lecture6Seeder extends Seeder
         if (!$lecture) {
             $lecture = Lecture::create([
                 'title' => 'Lecture 6 - Residential, Occupational, and Recreational Environment',
-                'description' => 'A guide to environmental health protection focusing on housing quality, workplace safety, and recreational areas.'
+                'description' => 'A guide to environmental health protection focusing on housing quality, workplace safety, and recreational areas.',
+                'is_previous' => true,
+                'category' => 'Public Health'
             ]);
         } else {
+            $lecture->update(['is_previous' => true, 'category' => 'Public Health']);
             $lecture->questions()->delete();
         }
 

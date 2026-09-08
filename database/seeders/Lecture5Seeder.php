@@ -15,9 +15,12 @@ class Lecture5Seeder extends Seeder
         if (!$lecture) {
             $lecture = Lecture::create([
                 'title' => 'Lecture 5 - Community Water, Waste Management, and Sewage Disposal',
-                'description' => 'A comprehensive guide to environmental health focusing on water sources, treatment, waste management, and sewage disposal.'
+                'description' => 'A comprehensive guide to environmental health focusing on water sources, treatment, waste management, and sewage disposal.',
+                'is_previous' => true,
+                'category' => 'Public Health'
             ]);
         } else {
+            $lecture->update(['is_previous' => true, 'category' => 'Public Health']);
             $lecture->questions()->delete();
         }
 
