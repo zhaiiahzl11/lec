@@ -21,7 +21,7 @@
 
             <div class="mt-8 max-w-md mx-auto">
                 <input type="text" id="userName" x-model="userName"
-                    placeholder="Enter your name to track progress..."
+                    placeholder="Enter your name..."
                     class="w-full rounded-2xl bg-white dark:bg-white/5 border border-slate-300 dark:border-white/10 text-slate-900 dark:text-white focus:border-emerald-500 focus:ring-emerald-500 placeholder-slate-400 dark:placeholder-slate-500 shadow-sm px-6 py-4 text-lg text-center font-semibold transition-colors duration-300">
             </div>
         </div>
