@@ -11,6 +11,11 @@ class DatabaseSeeder extends Seeder
      */
     public function run(): void
     {
+        // Skip if all 15 lectures already exist (avoid 30+ min reseed on deploy)
+        if (\App\Models\Lecture::count() >= 15) {
+            return;
+        }
+
         \App\Models\Lecture::query()->delete();
 
         $this->call([
